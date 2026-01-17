@@ -1,0 +1,766 @@
+{
+  "generatedAt": "2026-01-16T03:56:08.938443+00:00",
+  "count": 20,
+  "items": [
+    {
+      "id": "reddit_1qdrfgp",
+      "rank": 1,
+      "title": "Ministra da Groenlândia chora ao relatar pressão intensa por ameaças de Trump de tomar o território",
+      "label": "Groenlândia · Pressão política e militar",
+      "context": "A ministra da Groenlândia expressou emoção ao falar sobre a pressão sofrida após o então presidente dos EUA, Donald Trump, ameaçar tomar o território. A Groenlândia é uma região autônoma da Dinamarca, e a proposta gerou reações internacionais e movimentações militares de países da OTAN. O episódio chamou atenção para tensões geopolíticas envolvendo Estados Unidos, Europa e a região do Ártico.",
+      "source": "reddit",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1qdrfgp/greenland_minister_tearful_as_she_describes/",
+      "createdAt": "2026-01-15T18:24:30+00:00",
+      "rawScore": 1746.8703124785443,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2Fo6XzdEqoYjdhnHLMZx53yQz5nUNjlvlosZt7DR3UDaQ.jpeg",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Trump agiu estrategicamente ao tentar adquirir a Groenlândia, uma área de importância geopolítica, mostrando interesse em fortalecer a presença dos EUA no Ártico.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "As ameaças de Trump são irresponsáveis e colocam em risco a estabilidade internacional, forçando aliados da OTAN a se mobilizarem para defender um território aliado.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A situação revela como interesses estratégicos no Ártico podem gerar tensões entre países aliados, exigindo negociações cuidadosas para evitar conflitos.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qd1y8v",
+      "rank": 2,
+      "title": "Irã fecha espaço aéreo com ameaça de ataque dos EUA iminente",
+      "label": "Irã · Fechamento do espaço aéreo",
+      "context": "O Irã fechou seu espaço aéreo diante da expectativa de um ataque militar dos Estados Unidos. A tensão aumentou com movimentações militares na região e alertas de embaixadas para evacuação. O cenário preocupa países vizinhos e a comunidade internacional.",
+      "source": "reddit",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1qd1y8v/iran_closes_airspace_with_anticipated_us_attack/",
+      "createdAt": "2026-01-14T22:43:06+00:00",
+      "rawScore": 876.4524346397262,
+      "relevanceScore": 0.49855648333173297,
+      "suggestedRadius": 78.37,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2FTizQSkVvmd4I7vrvTrVT91BBRwWikeSRLmD206KUgeI.jpeg",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A ação do Irã de fechar o espaço aéreo é uma medida necessária para proteger sua soberania diante da ameaça clara de ataque dos EUA, que já evacuam bases próximas.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O fechamento do espaço aéreo pelo Irã só aumenta a tensão e pode ser interpretado como provocação, dificultando negociações e aumentando o risco de conflito na região.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Embora o fechamento do espaço aéreo indique preocupação, ainda não está claro se um ataque dos EUA é realmente iminente ou se é uma estratégia de pressão mútua.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qdt2tk",
+      "rank": 3,
+      "title": "Reação na Islândia à piada do embaixador dos EUA sobre o país ser o 52º estado",
+      "label": "Diplomacia · Piada do embaixador dos EUA",
+      "context": "O embaixador dos Estados Unidos na Islândia fez uma piada dizendo que o país poderia ser o 52º estado americano. Isso gerou indignação entre islandeses e críticas públicas, refletindo tensões diplomáticas. A situação envolve a percepção sobre o papel e comportamento dos diplomatas americanos no exterior.",
+      "source": "reddit",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1qdt2tk/anger_in_iceland_over_incoming_us_ambassadors/",
+      "createdAt": "2026-01-15T19:23:58+00:00",
+      "rawScore": 851.5971728440187,
+      "relevanceScore": 0.4842374875943109,
+      "suggestedRadius": 77.75,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2FXIsA-Yel6fPDCfpJvXCcn3Dtsq6ziRMTJFnzBP8ejAs.jpeg",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O embaixador dos EUA apenas fez uma piada, algo comum na diplomacia para aliviar tensões, e não deve ser levado tão a sério pela Islândia ou outros países.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A piada do embaixador dos EUA é um exemplo do desrespeito e arrogância da atual administração americana, que trata aliados como a Islândia e Canadá com desprezo e provoca tensões desnecessárias.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Embora a piada tenha causado desconforto, ela reflete um padrão maior de diplomacia agressiva dos EUA, que pode ser vista tanto como provocação quanto como falta de estratégia clara.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qdo076",
+      "rank": 4,
+      "title": "Uso do aplicativo ELITE da Palantir pelo ICE para identificar bairros para operações",
+      "label": "Tecnologia · Aplicativo ELITE do ICE",
+      "context": "O ICE (agência de imigração dos EUA) utiliza o software ELITE, desenvolvido pela empresa Palantir, para identificar e priorizar alvos para operações de fiscalização em bairros. O sistema usa análises avançadas para mapear possíveis pessoas para deportação, ajudando a agência a planejar ações no terreno. A divulgação desses detalhes gerou debates sobre o uso da tecnologia em ações de imigração.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qdo076/elite_the_palantir_app_ice_uses_to_find/",
+      "createdAt": "2026-01-15T16:22:46+00:00",
+      "rawScore": 850.9990894304169,
+      "relevanceScore": 0.48389293464128325,
+      "suggestedRadius": 77.74,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2Fa1a0SD9qxkb40uXGuH_DburbTC2GgMENe55aT0YRMvU.jpeg",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O uso do ELITE pelo ICE melhora a eficiência na identificação de alvos prioritários, ajudando a agência a cumprir seu papel de fiscalização migratória com tecnologia avançada.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa tecnologia desumaniza o processo, delegando decisões a um sistema que pode errar e servir de escudo para abusos, prejudicando imigrantes e comunidades vulneráveis.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Embora o ELITE aumente a capacidade do ICE, é importante acompanhar como essa tecnologia impacta direitos civis e se há mecanismos para evitar erros e abusos.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qcqc5i",
+      "rank": 5,
+      "title": "Jeff Bezos expressa desejo de que usuários abandonem PCs para alugar computadores na nuvem",
+      "label": "Tecnologia · Computação em nuvem",
+      "context": "Jeff Bezos, fundador da Amazon, comentou abertamente sobre a expectativa de que as pessoas deixem de usar seus próprios computadores pessoais para alugar máquinas virtuais na nuvem. Essa ideia envolve substituir o hardware local por serviços online que oferecem poder computacional remoto. O tema gera debate sobre controle, privacidade e modelo de consumo tecnológico.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qcqc5i/jeff_bezos_said_the_quiet_part_out_loud_hopes/",
+      "createdAt": "2026-01-14T15:33:46+00:00",
+      "rawScore": 570.5149283652863,
+      "relevanceScore": 0.32230737019554423,
+      "suggestedRadius": 70.06,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2FjUApyR3iP55t18H2WAfGQvsDp7jYWoPwf1uKyoh0Ixo.jpeg",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A computação em nuvem oferece flexibilidade e acesso a recursos poderosos sem precisar investir em hardware caro, o que pode democratizar o uso de tecnologia avançada.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Jeff Bezos e a Amazon querem criar um sistema de 'tecno-feudalismo', onde você não possui nada e fica refém das empresas que alugam tudo, perdendo controle sobre seus dados e equipamentos.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Embora a nuvem traga vantagens, depender totalmente dela pode ser arriscado, pois falhas de conexão ou serviços podem deixar o usuário sem acesso ao próprio computador.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qdytqt",
+      "rank": 6,
+      "title": "Europeus buscam alternativas locais a serviços de tecnologia dos EUA",
+      "label": "Tecnologia · Alternativas europeias",
+      "context": "Empresas e usuários europeus estão reduzindo o uso de serviços tecnológicos dos Estados Unidos, buscando opções locais ou de código aberto. Essa mudança é motivada por preocupações com controle de dados, dependência tecnológica e políticas dos EUA. A União Europeia também incentiva a soberania digital para fortalecer seu ecossistema tecnológico.",
+      "source": "reddit",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1qdytqt/europeans_quietly_shift_away_from_us_tech/",
+      "createdAt": "2026-01-15T23:01:27+00:00",
+      "rawScore": 459.99280249517017,
+      "relevanceScore": 0.2586361096700033,
+      "suggestedRadius": 66.51,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2FqWXcAhgLQRdfmk7y8vCuKXScqEt4pbhsVkwpywkBP30.jpeg",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A decisão da UE e empresas europeias de buscar alternativas locais é inteligente para proteger dados e reduzir dependência dos EUA, que têm instabilidade política e interferem em democracias.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essas alternativas europeias ainda não são maduras o suficiente para substituir os serviços dos EUA, que dominam o mercado e oferecem tecnologias mais avançadas e confiáveis.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A busca por soberania digital na Europa reflete preocupações legítimas, mas a transição pode ser lenta e complexa, exigindo equilíbrio entre segurança, inovação e viabilidade técnica.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qd1tsz",
+      "rank": 7,
+      "title": "Site que vazou informações sobre agentes do ICE sai do ar após ataque cibernético",
+      "label": "Vazamento ICE · Ataque cibernético",
+      "context": "Um site que divulgava dados pessoais de agentes do ICE (agência de imigração dos EUA) foi tirado do ar após sofrer um ataque cibernético. O site, mantido por um ativista na Holanda, recebeu um grande volume de acessos suspeitos que derrubaram sua operação. O caso envolve debates sobre privacidade, segurança e ações contra vazamentos de informações sensíveis.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qd1tsz/website_that_leaked_info_about_ice_agents_is_down/",
+      "createdAt": "2026-01-14T22:38:17+00:00",
+      "rawScore": 452.7221917976175,
+      "relevanceScore": 0.25444754611986226,
+      "suggestedRadius": 66.27,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2FIsAZDPqkmr3g557_j8GKevLSH65EkF3WcvLPzj4GkAw.jpeg",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O ataque ao site que vazou dados do ICE é uma resposta legítima para proteger a privacidade dos agentes e impedir que informações sensíveis sejam usadas contra eles.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Tirar o site do ar por meio de ataque cibernético é censura e tentativa de esconder abusos do ICE, que merece ser exposto por suas ações controversas na imigração.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Embora o vazamento exponha agentes do ICE, o uso de ataques cibernéticos para derrubar o site levanta questões sobre métodos legais e éticos para lidar com informações confidenciais.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qd46jv",
+      "rank": 8,
+      "title": "Suprema Corte dos EUA sofre ataque hacker, questionando sua segurança cibernética",
+      "label": "Segurança Cibernética · Suprema Corte EUA",
+      "context": "A Suprema Corte dos Estados Unidos foi alvo de um ataque hacker que permaneceu no sistema por cerca de dois meses sem ser detectado. O incidente levantou dúvidas sobre a eficácia das medidas de segurança cibernética da Corte e a possibilidade de acesso não autorizado a informações governamentais sensíveis.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qd46jv/supreme_court_hacked_proving_its_cybersecurity_is/",
+      "createdAt": "2026-01-15T00:13:25+00:00",
+      "rawScore": 426.9260165836197,
+      "relevanceScore": 0.23958649472692067,
+      "suggestedRadius": 65.37,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2FH5s1jEKu6drZON2EqrKIl9QZJoTqHvZXd7OPQXAbu2k.jpeg",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Esse ataque mostra que a Suprema Corte precisa urgentemente melhorar sua segurança, pois confiar em lealdade em vez de competência deixa o sistema vulnerável a invasões.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A segurança cibernética do governo sempre foi fraca; esse ataque só confirma que invasores já estão em todos os setores e que as proteções anunciadas são ilusórias.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "É importante saber exatamente o que foi acessado e roubado para avaliar o impacto real do ataque, pois a simples invasão não revela a extensão dos danos.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qdsy8g",
+      "rank": 9,
+      "title": "Seis meses depois, presidente Trump ainda não entregou celulares pré-encomendados; legisladores pedem investigação da FTC, mas Trump controla a agência",
+      "label": "Trump · atraso e investigação FTC",
+      "context": "Seis meses após o lançamento, o presidente Donald Trump não entregou os celulares que foram pré-encomendados. Legisladores americanos estão buscando uma investigação da Comissão Federal de Comércio (FTC) sobre o caso. Entretanto, Trump assumiu o controle da agência que deveria fiscalizar essa situação.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qdsy8g/six_months_later_president_mobile_still_hasnt/",
+      "createdAt": "2026-01-15T19:19:25+00:00",
+      "rawScore": 408.74304060544915,
+      "relevanceScore": 0.2291113704789823,
+      "suggestedRadius": 64.72,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2F0MHibCO9kCIKp5rxNTfuSYyqZHiYzdksoTj38xxiYgI.jpeg",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Trump está sendo alvo de uma fraude clara ao não entregar os celulares, e a investigação da FTC é essencial para proteger os consumidores contra esse tipo de golpe.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Como Trump controla a FTC, essa investigação é inútil; ele pode manipular a agência para evitar qualquer punição, e os compradores provavelmente nunca receberão seus aparelhos.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "É difícil saber o que vai acontecer, já que o presidente controla a agência que deveria investigar, o que pode complicar a transparência e a efetividade da apuração.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qboimo",
+      "rank": 10,
+      "title": "Estudo mostra que 1 em cada 6 pacientes é considerado 'difícil' por médicos, especialmente com depressão, ansiedade ou dor crônica",
+      "label": "Pacientes difíceis · Estudo médico",
+      "context": "Um estudo revelou que cerca de 1 em cada 6 pacientes é visto como 'difícil' por médicos, principalmente aqueles com depressão, ansiedade ou dor crônica. Mulheres e médicos residentes também tendem a relatar mais pacientes difíceis. O tema é relevante para entender desafios no atendimento médico.",
+      "source": "reddit",
+      "subreddit": "science",
+      "permalink": "https://www.reddit.com/r/science/comments/1qboimo/physicians_see_1_in_6_patients_as_difficult_study/",
+      "createdAt": "2026-01-13T11:04:13+00:00",
+      "rawScore": 373.84322600638427,
+      "relevanceScore": 0.20900575660179782,
+      "suggestedRadius": 63.43,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2FFlaN5HOlCw8UahOq6hNOI8AGN5sr7NWenr8srE4-RWk.jpeg",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Médicos residentes relatam mais pacientes difíceis porque ainda estão aprendendo a lidar com casos complexos como depressão e dor crônica, o que mostra a importância da experiência para melhorar o atendimento.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Rotular pacientes com depressão ou dor crônica como 'difíceis' pode ser injusto e refletir falta de empatia dos médicos, que às vezes preferem evitar casos que exigem mais atenção e tempo.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Pacientes com condições como ansiedade e dor crônica podem ser percebidos como difíceis, mas isso também depende da comunicação e da experiência do médico, mostrando que o problema é complexo e multifatorial.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qcy9vx",
+      "rank": 11,
+      "title": "Aumento das isenções não médicas em vacinas infantis nos EUA",
+      "label": "Vacinação Infantil · Isenções Não Médicas",
+      "context": "Nos Estados Unidos, cresce o número de famílias que optam por não vacinar crianças por motivos não médicos, como crenças religiosas ou pessoais. Esse aumento eleva o risco de surtos de doenças evitáveis, como o sarampo. O debate envolve preocupações sobre saúde pública e liberdade individual.",
+      "source": "reddit",
+      "subreddit": "science",
+      "permalink": "https://www.reddit.com/r/science/comments/1qcy9vx/opting_out_of_childhood_vaccines_is_becoming_more/",
+      "createdAt": "2026-01-14T20:22:08+00:00",
+      "rawScore": 335.423286797351,
+      "relevanceScore": 0.18687221601438103,
+      "suggestedRadius": 61.94,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2FrXfGoH-xYwqhKuWBAiy3sCOVy_Q-Ub1SYzzWairC1Ls.jpeg",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo deve combater as isenções não médicas para proteger a população, pois vacinas são essenciais para evitar doenças graves como o sarampo.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Respeitar crenças religiosas e pessoais é fundamental; forçar a vacinação pode violar direitos individuais e gerar desconfiança nas autoridades.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O aumento das isenções reflete desinformação e influência das redes sociais, mostrando a necessidade de melhor comunicação científica sem impor decisões.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qcyr6k",
+      "rank": 12,
+      "title": "Digg lança rival do Reddit ao público com moderação por IA",
+      "label": "Lançamento · Rede social com IA",
+      "context": "Digg, plataforma de notícias sociais que já foi concorrente do Reddit, lançou uma nova versão pública do seu site. A novidade inclui o uso de inteligência artificial para ajudar na moderação de conteúdo. O lançamento ocorre em um momento em que o Reddit enfrenta críticas sobre sua moderação e qualidade da comunidade.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qcyr6k/digg_launches_its_new_reddit_rival_to_the_public/",
+      "createdAt": "2026-01-14T20:40:34+00:00",
+      "rawScore": 232.78680376330843,
+      "relevanceScore": 0.12774383607020937,
+      "suggestedRadius": 57.44,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2FFKgpgy0RGk4vnTgEoUGzP26TlB5d7x8ncLAwA88I8PY.png",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Digg aposta na inteligência artificial para melhorar a moderação e combater a toxicidade, oferecendo uma alternativa renovada ao Reddit, que muitos consideram decadente.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Digg já foi rival do Reddit, mas falhou no passado por má gestão; muitos usuários migraram para o Reddit e duvidam que Digg consiga recuperar sua relevância.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Embora a moderação por IA seja uma tentativa de melhorar a experiência, tanto Digg quanto Reddit enfrentam desafios para manter comunidades saudáveis e atrair usuários.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qd57lv",
+      "rank": 13,
+      "title": "FBI apreende dispositivos de repórter do Washington Post em investigação sobre vazamentos",
+      "label": "FBI · Apreensão de dispositivos jornalísticos",
+      "context": "O FBI realizou buscas na casa e nos dispositivos eletrônicos de uma repórter do Washington Post que possui mais de 1.100 contatos no governo. A ação faz parte de uma investigação sobre vazamentos de informações confidenciais. O caso levanta debates sobre liberdade de imprensa e segurança nacional nos Estados Unidos.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qd57lv/fbi_fights_leaks_by_seizing_washington_post/",
+      "createdAt": "2026-01-15T00:57:43+00:00",
+      "rawScore": 184.65431309701842,
+      "relevanceScore": 0.1000149417078438,
+      "suggestedRadius": 54.98,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2FIPGVjgl5gMbxvYalNtS_nAU016h5qq11DtY8GaAVUuo.jpeg",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "negative",
+          "text": "A ação do FBI é uma violação grave da liberdade de imprensa, lembrando métodos autoritários que ameaçam o direito dos jornalistas de proteger suas fontes.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "positive",
+          "text": "O FBI precisa agir para proteger informações confidenciais e a segurança nacional, mesmo que isso envolva investigar jornalistas suspeitos de vazamentos.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Esse caso mostra o conflito entre a proteção da liberdade de imprensa e as medidas de segurança do governo para evitar vazamentos de dados sensíveis.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qcuxli",
+      "rank": 14,
+      "title": "Bandcamp proíbe músicas geradas por inteligência artificial na plataforma",
+      "label": "Música · Proibição de IA",
+      "context": "A plataforma Bandcamp anunciou que não permitirá músicas ou áudios gerados total ou parcialmente por inteligência artificial (IA) em seu site. A medida visa proteger artistas humanos e garantir que o conteúdo seja criado por pessoas. A decisão é uma das primeiras entre grandes serviços de música digital.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qcuxli/bandcamp_becomes_the_first_major_music_platform/",
+      "createdAt": "2026-01-14T18:20:54+00:00",
+      "rawScore": 165.43076487327988,
+      "relevanceScore": 0.08894034883747712,
+      "suggestedRadius": 53.89,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2FJZuk8ZrFyw79-_2zkVw1g2AN0PlRknmN7MqiIpKa2_g.jpeg",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Bandcamp está certo em proteger artistas humanos ao banir músicas feitas por IA, valorizando a criatividade real e evitando que máquinas substituam o talento artístico.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa proibição é exagerada e pode limitar a inovação musical; a IA pode ser uma ferramenta criativa útil, e impedir seu uso é um retrocesso para a indústria.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A decisão da Bandcamp levanta dúvidas sobre como identificar músicas feitas por IA e até que ponto o uso de ferramentas digitais deve ser permitido na criação artística.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qdj23f",
+      "rank": 15,
+      "title": "Desenvolvimento de Pó em Spray que Fecha Feridas Graves Instantaneamente",
+      "label": "Tecnologia · Pó hemostático inovador",
+      "context": "Cientistas criaram um pó em spray capaz de selar feridas que ameaçam a vida de forma imediata. O produto é uma evolução dos pós hemostáticos usados para estancar sangramentos, mas busca ser mais seguro e fácil de remover. Essa inovação pode impactar tratamentos de emergência e cirúrgicos.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qdj23f/scientists_develop_sprayon_powder_that_instantly/",
+      "createdAt": "2026-01-15T13:09:02+00:00",
+      "rawScore": 154.7376992988772,
+      "relevanceScore": 0.08278012563651733,
+      "suggestedRadius": 53.26,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2F2jFpA4GcETHttqQ3An-cdIFSV5HYw_GVqe4rgqBBALM.jpeg",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Esse novo pó em spray é um avanço importante para salvar vidas, pois promete estancar sangramentos graves rapidamente e com menos riscos que os pós atuais, beneficiando pacientes em emergências.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Pós hemostáticos como o quickclot funcionam, mas são tóxicos e perigosos, podendo causar danos se entrarem em contato com olhos ou mucosas; essa nova tecnologia pode ter riscos semelhantes não divulgados.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Embora o pó em spray pareça promissor para estancar sangramentos, ainda é importante saber se ele pode ser facilmente removido durante cirurgias, pois isso afeta seu uso clínico.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qdudl1",
+      "rank": 16,
+      "title": "Percepções sobre pessoas que optam por não ter filhos e diferenças de gênero",
+      "label": "Percepções · Pessoas sem filhos por escolha",
+      "context": "Estudos mostram que pessoas que escolhem não ter filhos são vistas como menos calorosas que pais, adotantes e pessoas sem filhos, mas consideradas mais competentes. Mulheres sem filhos são avaliadas como menos calorosas que homens na mesma situação. O tema envolve percepções sociais e estereótipos de gênero.",
+      "source": "reddit",
+      "subreddit": "science",
+      "permalink": "https://www.reddit.com/r/science/comments/1qdudl1/people_who_are_childfree_by_choice_are_perceived/",
+      "createdAt": "2026-01-15T20:11:53+00:00",
+      "rawScore": 152.83446258325918,
+      "relevanceScore": 0.0816836801980329,
+      "suggestedRadius": 53.15,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2F9risG_kMjaQNXkzSn8ipVf2U9LZ7fpsGhZeOU1WIh18.jpeg",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "É compreensível que mulheres sem filhos sejam vistas como menos calorosas, pois a sociedade espera que elas tenham traços maternais; essa percepção reflete normas sociais sobre gênero e maternidade.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa visão é injusta e reforça estereótipos ultrapassados; mulheres que escolhem não ter filhos não devem ser julgadas por suposta falta de calor humano ou afeto.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "As avaliações de 'calor' e 'competência' são subjetivas e influenciadas por expectativas culturais, o que dificulta interpretar esses resultados como verdades absolutas sobre pessoas sem filhos.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qdoinp",
+      "rank": 17,
+      "title": "Aumento da preferência dos mosquitos por sangue humano devido à perda de biodiversidade",
+      "label": "Mosquitos · Impacto da biodiversidade",
+      "context": "Estudos indicam que a perda de biodiversidade faz com que mosquitos prefiram mais o sangue humano, aumentando o risco de transmissão de doenças. Isso ocorre porque a redução de outras espécies limita as opções de alimentação dos mosquitos. O fenômeno pode afetar a saúde pública, especialmente em áreas urbanas e próximas a florestas degradadas.",
+      "source": "reddit",
+      "subreddit": "science",
+      "permalink": "https://www.reddit.com/r/science/comments/1qdoinp/mosquitoes_thirst_for_human_blood_has_increased/",
+      "createdAt": "2026-01-15T16:41:30+00:00",
+      "rawScore": 132.14332786119002,
+      "relevanceScore": 0.06976361786584291,
+      "suggestedRadius": 51.85,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2FqwwveFgb-hMpfueO0GU91UHM5JPxtSRQxnftEV4jAHg.jpeg",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A mudança na alimentação dos mosquitos é um exemplo claro de seleção natural, onde os que preferem humanos têm vantagem devido à menor disponibilidade de outros animais, aumentando o risco de doenças.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Culpar a perda de biodiversidade por isso é simplista; fatores como urbanização e mudanças climáticas também influenciam o comportamento dos mosquitos, não apenas a redução de espécies.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "É importante entender como a interação entre perda de habitats e comportamento dos mosquitos pode afetar a transmissão de patógenos, mas ainda faltam dados para prever impactos exatos.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qdkkkw",
+      "rank": 18,
+      "title": "Grok proíbe geração ilegal de pornografia após monetizá-la",
+      "label": "Grok · Proibição e monetização",
+      "context": "A empresa Grok, ligada a Elon Musk, passou a bloquear a geração de imagens pornográficas ilegais em algumas regiões, após ter permitido e cobrado pelo uso dessa função. A medida vale apenas onde a prática é proibida por lei. O tema gera debate sobre responsabilidade e controle de tecnologias de inteligência artificial.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qdkkkw/grok_now_bans_illegal_porn_generation_after/",
+      "createdAt": "2026-01-15T14:12:16+00:00",
+      "rawScore": 129.3399769949125,
+      "relevanceScore": 0.06814862103198704,
+      "suggestedRadius": 51.66,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2FLblk3s_9PMlsJoMUehw202umvqwv6Iy9sjWSvEAIwOU.jpeg",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "É positivo que Grok tenha começado a bloquear a geração ilegal de pornografia, mostrando algum compromisso com a lei e a ética, mesmo que tardiamente.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Grok só proibiu a geração ilegal depois de lucrar com ela, o que mostra falta de responsabilidade e exploração de um problema grave para ganhar dinheiro.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Bloquear a geração ilegal só em alguns países pode ser insuficiente, já que usuários podem usar VPNs para burlar as restrições e continuar acessando o conteúdo.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qdv4m2",
+      "rank": 19,
+      "title": "Preços da memória RAM DDR5 aumentaram mais de 4 vezes desde setembro de 2024",
+      "label": "DDR5 RAM · Aumento de preços",
+      "context": "Desde setembro de 2024, os preços da memória RAM DDR5 subiram drasticamente, chegando a mais de quatro vezes o valor inicial. Usuários relatam dificuldades para encontrar kits de RAM a preços acessíveis, o que impacta quem precisa atualizar computadores. O aumento ocorre em meio a debates sobre oferta, demanda e possíveis causas externas.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qdv4m2/ddr5_ram_prices_now_over_4x_higher_since/",
+      "createdAt": "2026-01-15T20:40:28+00:00",
+      "rawScore": 106.66274682610552,
+      "relevanceScore": 0.05508437874829626,
+      "suggestedRadius": 50.08,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O aumento dos preços da DDR5 reflete a alta demanda e custos de produção, mostrando que o mercado está valorizando a tecnologia mais avançada disponível.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Esse aumento absurdo parece uma escassez artificial para lucrar, já que a RAM DDR5 está disponível, mas os preços sobem sem justificativa real.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "É difícil saber se o aumento é causado por fatores reais de mercado ou por estratégias das empresas, mas isso afeta diretamente quem depende de upgrades.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qdking",
+      "rank": 20,
+      "title": "Coalizão liderada por Macron oferece apoio militar total à Ucrânia",
+      "label": "Apoio militar · Coalizão internacional",
+      "context": "O presidente francês Emmanuel Macron anunciou que uma coalizão de 34 países, chamada 'coalizão dos dispostos', fornece 100% do apoio militar financiado à Ucrânia na guerra contra a Rússia. Isso indica uma mudança na influência dos Estados Unidos sobre as decisões militares ucranianas. A coalizão inclui potências europeias com armas nucleares, como França e Reino Unido.",
+      "source": "reddit",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1qdking/macron_coalition_of_the_willing_provides_100/",
+      "createdAt": "2026-01-15T14:10:02+00:00",
+      "rawScore": 100.48525206239593,
+      "relevanceScore": 0.05152555398448786,
+      "suggestedRadius": 49.62,
+      "imageUrl": "https://images.weserv.nl/?url=external-preview.redd.it%2FV8JwRjcKckyjqFKf-VcgZBJZrThgPPUwfU0GLQ-VtXE.jpeg",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A liderança da França na coalizão mostra que a Europa pode apoiar a Ucrânia independentemente dos EUA, fortalecendo a segurança europeia e a resistência ucraniana.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa coalizão pode enfraquecer a influência dos EUA e criar divisões na estratégia ocidental, prejudicando a unidade necessária para enfrentar a Rússia.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Embora a coalizão forneça apoio total, ainda é incerto como isso afetará o curso da guerra e as negociações futuras entre Ucrânia, Rússia e aliados.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    }
+  ]
+}
