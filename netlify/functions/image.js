@@ -1,91 +1,46 @@
-exports.handler = async (event) => {
+export default async (req, context) => {
+  const imageUrl = req.queryStringParameters?.url;
+
+  if (!imageUrl) {
+    return {
+      statusCode: 400,
+      body: "Missing image URL",
+    };
+  }
+
   try {
-    const rawUrl = event.queryStringParameters?.url;
-    if (!rawUrl) {
-      return {
-        statusCode: 400,
-        headers: { "Access-Control-Allow-Origin": "*" },
-        body: "Missing ?url=",
-      };
-    }
-
-    // decodifica o parâmetro
-    const targetUrl = decodeURIComponent(rawUrl);
-
-    // valida destino (segurança básica)
-    let u;
-    try {
-      u = new URL(targetUrl);
-    } catch {
-      return {
-        statusCode: 400,
-        headers: { "Access-Control-Allow-Origin": "*" },
-        body: "Invalid url",
-      };
-    }
-
-    const allowedHosts = new Set([
-      "i.redd.it",
-      "external-preview.redd.it",
-      "preview.redd.it",
-      "styles.redditmedia.com",
-      "i.imgur.com",
-      "imgur.com",
-    ]);
-
-    if (!allowedHosts.has(u.hostname)) {
-      return {
-        statusCode: 403,
-        headers: { "Access-Control-Allow-Origin": "*" },
-        body: `Host not allowed: ${u.hostname}`,
-      };
-    }
-
-    // busca a imagem com User-Agent (muito importante)
-    const resp = await fetch(targetUrl, {
+    const response = await fetch(imageUrl, {
       headers: {
+        // ⚠️ ISSO É O QUE FAZ FUNCIONAR
         "User-Agent":
           "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
-        "Accept":
-          "image/avif,image/webp,image/apng,image/*,*/*;q=0.8",
         "Referer": "https://www.reddit.com/",
+        "Accept": "image/*,*/*;q=0.8",
       },
-      redirect: "follow",
     });
 
-    if (!resp.ok) {
-      const txt = await resp.text().catch(() => "");
+    if (!response.ok) {
       return {
-        statusCode: resp.status,
-        headers: {
-          "Access-Control-Allow-Origin": "*",
-          "Cache-Control": "public, max-age=60",
-        },
-        body: `Upstream error ${resp.status}: ${txt.slice(0, 200)}`,
+        statusCode: response.status,
+        body: `Upstream error ${response.status}`,
       };
     }
 
-    const contentType =
-      resp.headers.get("content-type") || "application/octet-stream";
-
-    const arrayBuffer = await resp.arrayBuffer();
-    const base64 = Buffer.from(arrayBuffer).toString("base64");
+    const buffer = Buffer.from(await response.arrayBuffer());
 
     return {
       statusCode: 200,
-      isBase64Encoded: true,
       headers: {
-        "Content-Type": contentType,
-        "Access-Control-Allow-Origin": "*",
-        "Cache-Control": "public, max-age=3600",
+        "Content-Type": response.headers.get("content-type") || "image/jpeg",
+        "Cache-Control": "public, max-age=86400",
       },
-      body: base64,
+      body: buffer.toString("base64"),
+      isBase64Encoded: true,
     };
-  } catch (e) {
+  } catch (err) {
     return {
       statusCode: 500,
-      headers: { "Access-Control-Allow-Origin": "*" },
-      body: `Internal error: ${String(e)}`,
+      body: "Internal error",
     };
   }
 };

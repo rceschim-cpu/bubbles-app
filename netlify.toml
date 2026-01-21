@@ -1,6 +1,3 @@
 [build]
-  command = "flutter build web"
   publish = "build/web"
-
-[functions]
-  directory = "netlify/functions"
+  functions = "netlify/functions"
