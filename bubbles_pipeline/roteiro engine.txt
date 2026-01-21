@@ -1,0 +1,6 @@
+Abre o powershell
+cd c:/bubbles_app/bubbles_pipeline
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install requests
+python bubbles_engine.py

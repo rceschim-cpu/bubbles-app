@@ -1,0 +1,766 @@
+{
+  "generatedAt": "2026-01-17T02:35:53.758082+00:00",
+  "count": 20,
+  "items": [
+    {
+      "id": "reddit_1qejnjo",
+      "rank": 1,
+      "title": "Interrupção do funcionamento do X (antigo Twitter)",
+      "label": "Tecnologia · Parada do X",
+      "context": "O serviço X, anteriormente conhecido como Twitter, parou de funcionar recentemente. Usuários e especialistas discutem as possíveis causas e consequências dessa interrupção. O tema envolve aspectos técnicos, econômicos e políticos relacionados à plataforma.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qejnjo/x_has_stopped_working/",
+      "createdAt": "2026-01-16T15:53:34+00:00",
+      "rawScore": 1602.5016468567737,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A paralisação do X pode ser vista como uma oportunidade para reduzir a propagação de desinformação e conteúdos nocivos, beneficiando o ambiente digital.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O fim do funcionamento do X prejudica quem depende da plataforma para comunicação e renda, mostrando falhas na gestão da empresa após a mudança de controle.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A interrupção do X parece estar ligada a problemas técnicos e econômicos, refletindo desafios complexos que envolvem desde código legado até decisões de mercado.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qejxed",
+      "rank": 2,
+      "title": "Trump ameaça impor tarifas a países que não apoiarem seus planos para a Groenlândia",
+      "label": "Tarifas · Política internacional EUA-Groenlândia",
+      "context": "O ex-presidente dos EUA, Donald Trump, declarou que pode aplicar tarifas comerciais a países que não apoiarem seus planos relacionados à Groenlândia, território autônomo da Dinamarca. A ameaça faz parte de um debate sobre interesses estratégicos e econômicos na região do Ártico. A medida gerou reações diversas no cenário internacional.",
+      "source": "reddit",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1qejxed/trump_says_may_slap_tariffs_on_nations_that_dont/",
+      "createdAt": "2026-01-16T16:03:16+00:00",
+      "rawScore": 1433.4948807891128,
+      "relevanceScore": 0.8935315242212791,
+      "suggestedRadius": 92.72,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Trump está defendendo os interesses dos EUA ao pressionar países que ignoram seus planos para a Groenlândia, mostrando força na política internacional e buscando proteger sua influência estratégica.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A ameaça de tarifas de Trump é um ato de imperialismo e arrogância, que pode prejudicar relações diplomáticas e gerar conflitos desnecessários com aliados e outras nações.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Embora a ameaça de tarifas seja uma tática comum na política internacional, é incerto se isso realmente influenciará as decisões dos países envolvidos ou apenas aumentará tensões sem resultados concretos.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qed4ud",
+      "rank": 3,
+      "title": "Luto pela morte de animais de estimação pode ser tão intenso quanto pelo de familiares",
+      "label": "Luto por pets · Intensidade emocional",
+      "context": "Um estudo mostrou que o sofrimento pela perda de um animal de estimação pode ser tão forte quanto o pela perda de um familiar. Cerca de 20% das pessoas que passaram por ambas as perdas consideraram a do pet pior. Os sintomas de luto severo foram semelhantes para ambos os tipos de perda.",
+      "source": "reddit",
+      "subreddit": "science",
+      "permalink": "https://www.reddit.com/r/science/comments/1qed4ud/grief_over_pet_death_can_be_as_strong_as_that_for/",
+      "createdAt": "2026-01-16T11:05:03+00:00",
+      "rawScore": 922.56170172014,
+      "relevanceScore": 0.5716611159177932,
+      "suggestedRadius": 81.36,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Para muitas pessoas, o pet é a relação mais estável e duradoura que têm; o luto é o preço do amor, e merece ser reconhecido como legítimo, assim como o luto por familiares.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Luto por animais não deve ser equiparado ao luto por humanos, pois relações familiares têm profundidade e complexidade que não podem ser comparadas ao vínculo com pets.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A intensidade do luto varia muito entre as pessoas e depende do tipo de vínculo; reconhecer que o sofrimento pode ser semelhante ajuda a entender diferentes formas de perda.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qeodmg",
+      "rank": 4,
+      "title": "EUA dizem que Canadá vai se arrepender de permitir carros elétricos chineses no mercado",
+      "label": "Comércio · Carros elétricos China-Canadá",
+      "context": "Os Estados Unidos criticaram a decisão do Canadá de permitir a entrada de veículos elétricos (EVs) chineses em seu mercado. A declaração gerou reações sobre as relações comerciais entre os dois países e a influência da China na indústria automotiva. O tema é relevante para a economia e a geopolítica da América do Norte.",
+      "source": "reddit",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1qeodmg/us_says_canada_will_regret_decision_to_allow/",
+      "createdAt": "2026-01-16T18:41:55+00:00",
+      "rawScore": 859.452881935532,
+      "relevanceScore": 0.5319047203189848,
+      "suggestedRadius": 79.76,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Canadá está certo em diversificar suas opções e comprar carros elétricos chineses mais baratos e melhores, mesmo que os EUA desaprovem essa decisão.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Os EUA têm razão em alertar que o Canadá vai se arrepender, pois essa decisão pode prejudicar a indústria automotiva americana e enfraquecer a aliança entre os países.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Essa situação mostra como a competição entre EUA e China influencia aliados como o Canadá, que precisam equilibrar interesses econômicos e políticos.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qej4ad",
+      "rank": 5,
+      "title": "França substitui EUA como principal fornecedora de inteligência para Kiev, diz Macron",
+      "label": "Inteligência · França e EUA na Ucrânia",
+      "context": "O presidente francês Emmanuel Macron afirmou que a França passou a fornecer cerca de dois terços do apoio de inteligência para a Ucrânia, ultrapassando os Estados Unidos. Essa mudança ocorre em meio a alterações no compartilhamento de informações dos EUA no último ano. O tema é relevante para a dinâmica do apoio internacional no conflito ucraniano.",
+      "source": "reddit",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1qej4ad/france_replaces_us_as_main_intelligence_provider/",
+      "createdAt": "2026-01-16T15:33:38+00:00",
+      "rawScore": 668.1560319406351,
+      "relevanceScore": 0.4113942548854682,
+      "suggestedRadius": 74.48,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A França assumir a liderança no fornecimento de inteligência mostra sua capacidade e compromisso com a Ucrânia, fortalecendo a cooperação europeia frente à Rússia.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Os EUA ainda têm vantagens técnicas únicas, como alerta precoce de mísseis, e a redução do seu papel pode enfraquecer o suporte à Ucrânia no longo prazo.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "É difícil comparar exatamente o apoio de inteligência dos países, pois envolve diferentes tipos de informações e tecnologias, o que torna a mudança mais complexa do que parece.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qe7vop",
+      "rank": 6,
+      "title": "Especialista financeiro alerta que OpenAI está perto de ficar sem dinheiro",
+      "label": "OpenAI · Crise financeira",
+      "context": "Um especialista financeiro afirmou que a OpenAI, empresa de inteligência artificial, está próxima de esgotar seus recursos financeiros. A empresa compete com gigantes como Google, Microsoft e Meta, que têm mais capital para investir em IA. A situação preocupa pelo impacto no desenvolvimento e na inovação tecnológica.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qe7vop/financial_expert_says_openai_is_on_the_verge_of/",
+      "createdAt": "2026-01-16T05:52:47+00:00",
+      "rawScore": 521.8810967496372,
+      "relevanceScore": 0.3192460542141301,
+      "suggestedRadius": 69.9,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "OpenAI precisa de investimentos externos para continuar inovando, pois não tem a mesma base financeira que Google ou Microsoft, que podem sustentar grandes gastos em IA.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Sam Altman errou ao transformar a OpenAI em uma empresa que queima dinheiro, deixando-a vulnerável frente a concorrentes maiores e mais estáveis financeiramente.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Apesar dos desafios financeiros, a OpenAI ainda gera receitas significativas e pode buscar parcerias para manter sua posição no mercado de IA.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qej0at",
+      "rank": 7,
+      "title": "Queda do X: milhares relatam instabilidade na plataforma de rede social",
+      "label": "Queda do X · Instabilidade na rede social",
+      "context": "A plataforma de rede social X sofreu uma queda que afetou milhares de usuários, que relataram a instabilidade em redes sociais. O incidente impactou o acesso e o uso do serviço, gerando discussões sobre a confiabilidade da plataforma.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qej0at/x_is_down_thousands_of_users_report_outage_on/",
+      "createdAt": "2026-01-16T15:29:29+00:00",
+      "rawScore": 507.7960856239973,
+      "relevanceScore": 0.3103729794801112,
+      "suggestedRadius": 69.43,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Essas quedas mostram que até as maiores plataformas enfrentam problemas técnicos, o que é normal e indica que estão trabalhando para melhorar a infraestrutura.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A instabilidade do X revela falhas graves na gestão da plataforma, prejudicando usuários e anunciantes, e mostra falta de preparo para manter o serviço estável.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Quedas em redes sociais são comuns, mas é importante acompanhar como a empresa responde para entender se o problema será resolvido rapidamente.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qdt2tk",
+      "rank": 8,
+      "title": "Reação na Islândia à piada do embaixador dos EUA sobre o país ser o 52º estado americano",
+      "label": "Diplomacia · Polêmica na Islândia",
+      "context": "O novo embaixador dos Estados Unidos na Islândia fez uma piada dizendo que o país seria o 52º estado americano, o que gerou indignação entre islandeses e críticas públicas. A situação envolve relações diplomáticas entre os dois países e destaca sensibilidades sobre soberania nacional. O episódio repercute em debates sobre o comportamento de diplomatas americanos no exterior.",
+      "source": "reddit",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1qdt2tk/anger_in_iceland_over_incoming_us_ambassadors/",
+      "createdAt": "2026-01-15T19:23:58+00:00",
+      "rawScore": 507.6986819719585,
+      "relevanceScore": 0.3103116185144579,
+      "suggestedRadius": 69.42,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O embaixador dos EUA usou humor para quebrar o gelo, algo comum na diplomacia, e a reação exagerada da Islândia mostra falta de senso de humor e fragilidade nas relações bilaterais.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A piada do embaixador dos EUA é ofensiva e desrespeitosa, reforçando uma postura imperialista que desconsidera a soberania da Islândia e prejudica a imagem dos EUA no exterior.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Embora a piada tenha causado desconforto, é importante avaliar se esse tipo de comentário afeta realmente as relações diplomáticas ou se é apenas um episódio isolado sem maiores consequências.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qene37",
+      "rank": 9,
+      "title": "RFK Jr. ordena estudo sobre radiação de celulares após FDA retirar garantia de segurança",
+      "label": "Radiação de celulares · Estudo e FDA",
+      "context": "Robert F. Kennedy Jr. solicitou um estudo sobre os possíveis riscos da radiação emitida por celulares, após a FDA (agência reguladora dos EUA) retirar sua declaração anterior de que os aparelhos não são perigosos. O tema gera debate sobre segurança tecnológica e saúde pública.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qene37/rfk_jr_orders_study_on_cellphone_radiation_as_fda/",
+      "createdAt": "2026-01-16T18:06:16+00:00",
+      "rawScore": 342.92225668534536,
+      "relevanceScore": 0.20650811257962134,
+      "suggestedRadius": 63.27,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "RFK Jr. está certo em exigir mais estudos, pois a segurança dos celulares nunca foi totalmente comprovada e a FDA deveria ser mais cautelosa com a saúde pública.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa investigação é desnecessária e alimenta teorias conspiratórias; a ciência já mostrou que a radiação dos celulares é muito baixa para causar danos reais.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Embora a radiação dos celulares seja considerada segura pela maioria dos estudos, é válido acompanhar novas pesquisas para garantir que não haja riscos desconhecidos.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qcy9vx",
+      "rank": 10,
+      "title": "Aumento das isenções não médicas de vacinas infantis nos EUA e riscos para doenças evitáveis",
+      "label": "Vacinação Infantil · Isenções Não Médicas",
+      "context": "Nos Estados Unidos, cresce o número de famílias que optam por não vacinar crianças por motivos religiosos ou pessoais, sem base médica. Essa tendência aumenta a vulnerabilidade da população a doenças como o sarampo. O debate envolve preocupações sobre saúde pública e desinformação.",
+      "source": "reddit",
+      "subreddit": "science",
+      "permalink": "https://www.reddit.com/r/science/comments/1qcy9vx/opting_out_of_childhood_vaccines_is_becoming_more/",
+      "createdAt": "2026-01-14T20:22:08+00:00",
+      "rawScore": 285.79554207260526,
+      "relevanceScore": 0.17052023840995975,
+      "suggestedRadius": 60.78,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo deve combater a desinformação e proteger a saúde pública, pois a recusa em vacinar por crenças pessoais coloca toda a sociedade em risco, como no caso do sarampo.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Respeitar a liberdade individual inclui aceitar que pais escolham não vacinar seus filhos por motivos religiosos ou pessoais, mesmo que isso aumente riscos de doenças.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O aumento das isenções não médicas reflete uma combinação de desinformação, influência das redes sociais e esquecimento dos perigos reais das doenças evitáveis.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qebfiq",
+      "rank": 11,
+      "title": "Robô com metralhadora ajudou Ucrânia a conter avanço russo por seis semanas",
+      "label": "Tecnologia militar · Defesa ucraniana",
+      "context": "Um veículo terrestre não tripulado, armado com uma metralhadora calibre .50 e controlado remotamente por soldados ucranianos, foi usado para resistir às forças russas por seis semanas. Essa tecnologia representa uma inovação no campo de batalha, permitindo combate à distância e em terrenos difíceis. O uso desse robô tem impacto na estratégia militar e na dinâmica do conflito entre Ucrânia e Rússia.",
+      "source": "reddit",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1qebfiq/ukraines_robot_machine_gunner_held_off_russia_for/",
+      "createdAt": "2026-01-16T09:22:22+00:00",
+      "rawScore": 199.90059796457467,
+      "relevanceScore": 0.11640936469133453,
+      "suggestedRadius": 56.47,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O uso do robô armado mostra a inovação ucraniana e ajuda a proteger soldados, mantendo-os longe do perigo direto e aumentando a eficiência na defesa contra a invasão russa.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Confiar em máquinas para combate pode desumanizar a guerra e criar um cenário perigoso onde a tecnologia substitui o julgamento humano, aumentando riscos e erros.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Embora o robô tenha ajudado na defesa, é importante avaliar como essa tecnologia influencia o equilíbrio militar e as futuras estratégias de ambos os lados no conflito.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qeve7v",
+      "rank": 12,
+      "title": "Filho do líder checheno Kadyrov sofre acidente de carro e está hospitalizado em estado grave",
+      "label": "Acidente · Filho de Kadyrov",
+      "context": "Adam Kadyrov, filho do líder da Chechênia, Ramzan Kadyrov, sofreu um acidente de carro e foi hospitalizado em estado grave. O acidente ocorreu durante um comboio que trafegava em alta velocidade e colidiu após encontrar um obstáculo. O evento é relevante por envolver a família do chefe regional da Chechênia, uma república da Rússia.",
+      "source": "reddit",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1qeve7v/chechen_leader_kadyrovs_son_gets_into_car/",
+      "createdAt": "2026-01-16T23:09:00+00:00",
+      "rawScore": 198.70594504514054,
+      "relevanceScore": 0.11565677425737622,
+      "suggestedRadius": 56.41,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O acidente pode ser um sinal de que a oposição local está ganhando força contra a família Kadyrov, que tem controle autoritário na Chechênia.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Esse tipo de acidente levanta suspeitas de que pode ser uma tentativa de eliminar o filho de Kadyrov para alterar a linha de sucessão, dada a situação do pai.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Acidentes em comboios de alta velocidade são perigosos e podem causar múltiplas colisões, independentemente de quem esteja envolvido.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qefptk",
+      "rank": 13,
+      "title": "Processo contra Grok por imagem sexual de Ashley St. Clair com suásticas",
+      "label": "Grok · Processo por imagem sexual",
+      "context": "Grok, uma inteligência artificial criada por Elon Musk, está sendo processada após gerar uma imagem sexual de Ashley St. Clair com suásticas desenhadas. A controvérsia envolve o uso da tecnologia para criar imagens não consensuais e ofensivas. A empresa afirma limitar o uso em locais onde isso é ilegal.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qefptk/grok_made_sexual_image_of_ashley_st_clair_covered/",
+      "createdAt": "2026-01-16T13:18:36+00:00",
+      "rawScore": 163.80835331676928,
+      "relevanceScore": 0.09367248637282902,
+      "suggestedRadius": 54.36,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "negative",
+          "text": "Elon Musk criou Grok e permitiu que fosse usado para pornografia de vingança, mostrando falta de responsabilidade com mulheres e vítimas de abuso.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "positive",
+          "text": "A empresa bloqueia a geração de imagens de pessoas reais em roupas íntimas onde é ilegal, mostrando esforço para cumprir a lei e limitar abusos.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Mesmo com bloqueios, a tecnologia ainda pode ser usada para criar imagens ofensivas, o que levanta dúvidas sobre a eficácia das medidas legais atuais.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qer12t",
+      "rank": 14,
+      "title": "Hacker divulga dados roubados do Supremo Tribunal dos EUA no Instagram",
+      "label": "Hackers · Vazamento Supremo EUA",
+      "context": "Um hacker invadiu sistemas do Supremo Tribunal dos Estados Unidos (SCOTUS) e publicou dados governamentais roubados no Instagram. O incidente expõe vulnerabilidades na segurança digital de órgãos públicos importantes. A divulgação gerou debates sobre segurança cibernética e privacidade.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qer12t/supreme_court_hacker_posted_stolen_government/",
+      "createdAt": "2026-01-16T20:20:44+00:00",
+      "rawScore": 133.19129503082814,
+      "relevanceScore": 0.07438478799022472,
+      "suggestedRadius": 52.36,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Expor falhas de segurança no Supremo é essencial para pressionar melhorias e transparência, mesmo que isso envolva divulgar dados roubados publicamente.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Publicar informações pessoais de vítimas nas redes sociais é irresponsável e viola a privacidade, prejudicando pessoas inocentes sem justificar o ataque.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O ataque foi possível por falhas no sistema e phishing, mostrando que a segurança digital do governo precisa ser revista, mas o método do hacker é controverso.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qed3l8",
+      "rank": 15,
+      "title": "Estudo mostra que meditação pode alterar o fluxo do líquido cefalorraquidiano no cérebro",
+      "label": "Meditação · Mudança no fluxo cerebral",
+      "context": "Pesquisadores descobriram que a meditação com atenção focada pode modificar a circulação do líquido cefalorraquidiano, fluido que envolve o cérebro e a medula espinhal. Essas alterações são semelhantes às observadas durante o sono. O estudo sugere que a meditação pode influenciar processos cerebrais importantes.",
+      "source": "reddit",
+      "subreddit": "science",
+      "permalink": "https://www.reddit.com/r/science/comments/1qed3l8/neuroscientists_find_evidence_meditation_changes/",
+      "createdAt": "2026-01-16T11:03:04+00:00",
+      "rawScore": 130.41416889800706,
+      "relevanceScore": 0.07263529361620455,
+      "suggestedRadius": 52.17,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Médicos recomendam meditação para ajudar a reduzir a pressão do líquido cefalorraquidiano, mostrando benefícios reais para a saúde cerebral, como no caso de pacientes com hipertensão intracraniana.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Nem todos conseguem meditar devido a dores ou dificuldades, e não é uma solução mágica para todos; algumas pessoas não sentem benefícios e podem até piorar seu desconforto.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Embora a meditação pareça alterar o fluxo cerebral, ainda é preciso mais pesquisa para entender como essas mudanças afetam a saúde a longo prazo e se são equivalentes aos efeitos do sono.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qcxtnj",
+      "rank": 16,
+      "title": "Debate sobre o silêncio da esquerda pró-Gaza em relação ao Irã",
+      "label": "Esquerda pró-Gaza · Silêncio sobre Irã",
+      "context": "O debate discute a aparente falta de manifestações da esquerda que apoia Gaza em relação aos protestos e repressão no Irã. O tema envolve críticas sobre prioridades políticas e alinhamentos ideológicos, considerando também a atuação de governos ocidentais e a situação interna iraniana.",
+      "source": "reddit",
+      "subreddit": "geopolitics",
+      "permalink": "https://www.reddit.com/r/geopolitics/comments/1qcxtnj/the_progaza_left_is_oh_so_quiet_on_iran/",
+      "createdAt": "2026-01-14T20:05:33+00:00",
+      "rawScore": 124.35280306313595,
+      "relevanceScore": 0.06881684068327534,
+      "suggestedRadius": 51.74,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A esquerda pró-Gaza prioriza a luta contra o imperialismo e o apoio a Gaza, por isso não se mobiliza pela revolução secular no Irã, que tem objetivos diferentes e menos alinhados com sua agenda.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A esquerda pró-Gaza demonstra hipocrisia ao ficar em silêncio sobre a repressão no Irã, ignorando a opressão e os protestos contra um regime autoritário, o que revela um viés ideológico seletivo.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O contexto geopolítico e as relações internacionais influenciam as prioridades dos movimentos de esquerda, que podem focar em causas onde seus governos têm envolvimento direto, como no conflito Israel-Palestina.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qepk3m",
+      "rank": 17,
+      "title": "Polônia planeja aumentar tropas para 500 mil até 2039",
+      "label": "Militar · Expansão das Forças Armadas",
+      "context": "A Polônia anunciou planos para expandir suas forças armadas, aumentando o efetivo para 500 mil soldados até 2039. A medida visa fortalecer a segurança nacional em um cenário de instabilidade regional prolongada. O país enfrenta desafios demográficos e estratégicos que influenciam essa decisão.",
+      "source": "reddit",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1qepk3m/poland_aims_to_boost_troop_numbers_to_500000_by/",
+      "createdAt": "2026-01-16T19:24:53+00:00",
+      "rawScore": 108.87340518573416,
+      "relevanceScore": 0.059065350039879796,
+      "suggestedRadius": 50.58,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Polônia é um exemplo em segurança nacional e desenvolvimento econômico, mostrando planejamento estratégico para proteger seu território diante de ameaças futuras.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Com a baixa taxa de natalidade, é difícil imaginar como a Polônia vai conseguir recrutar tantos soldados, tornando o plano pouco realista.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A decisão reflete uma preparação para instabilidade de longo prazo, mas o contexto demográfico e político pode dificultar a implementação completa do plano.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qdj23f",
+      "rank": 18,
+      "title": "Desenvolvimento de Pó em Spray que Fecha Feridas Graves Instantaneamente",
+      "label": "Tecnologia · Pó hemostático inovador",
+      "context": "Cientistas criaram um pó em spray capaz de selar feridas que ameaçam a vida de forma imediata. O produto é uma evolução dos pós hemostáticos usados para estancar sangramentos, mas busca ser mais seguro e fácil de remover. Essa inovação pode impactar tratamentos de emergência e cirúrgicos.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qdj23f/scientists_develop_sprayon_powder_that_instantly/",
+      "createdAt": "2026-01-15T13:09:02+00:00",
+      "rawScore": 107.07659378247843,
+      "relevanceScore": 0.05793342037920648,
+      "suggestedRadius": 50.44,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Esse novo pó em spray pode revolucionar o atendimento emergencial, oferecendo uma solução rápida e eficaz para controlar sangramentos graves, algo que os atuais pós hemostáticos não fazem tão bem.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Pós hemostáticos como o quickclot funcionam, mas são tóxicos e perigosos se entrarem em contato com olhos ou mucosas; sem detalhes sobre segurança, esse novo spray pode ter riscos semelhantes.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Embora o spray pareça promissor para estancar sangramentos, é importante saber se ele pode ser facilmente removido durante cirurgias, já que pós atuais dificultam o tratamento posterior.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qcidbc",
+      "rank": 19,
+      "title": "Estudo mostra que desmame precoce de potros altera cérebro e hábitos alimentares",
+      "label": "Desmame de potros · Impactos cerebrais",
+      "context": "Um estudo com ressonância magnética revelou que o desmame padrão de potros aos 6 meses altera significativamente o desenvolvimento cerebral dos filhotes. A pesquisa sugere que um vínculo mais longo com a mãe resulta em cérebros mais saudáveis e melhores hábitos alimentares. O tema é relevante para práticas de criação animal e pode ter paralelos em outros mamíferos.",
+      "source": "reddit",
+      "subreddit": "science",
+      "permalink": "https://www.reddit.com/r/science/comments/1qcidbc/mri_scans_show_weaning_horses_at_6_months_the/",
+      "createdAt": "2026-01-14T08:51:37+00:00",
+      "rawScore": 96.53493950363674,
+      "relevanceScore": 0.05129253913303686,
+      "suggestedRadius": 49.59,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Permitir que a mãe e o potro decidam o momento do desmame respeita a natureza e promove melhor saúde cerebral e comportamental nos filhotes, como indica o estudo.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Desmamar potros cedo é necessário para manejo e adaptação, mesmo que isso altere o cérebro; a prática padrão existe por razões práticas e econômicas na criação.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Embora o estudo mostre efeitos no cérebro, falta detalhamento sobre a magnitude dessas mudanças e como elas impactam a vida dos potros a longo prazo.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1qeeotq",
+      "rank": 20,
+      "title": "Ford anuncia protótipo de caminhonete elétrica de US$ 30 mil",
+      "label": "Ford · Caminhonete elétrica acessível",
+      "context": "A Ford revelou que está desenvolvendo um protótipo de caminhonete elétrica com preço inicial estimado em US$ 30 mil. O anúncio gerou expectativas sobre a entrada da empresa no mercado de veículos elétricos mais acessíveis, em meio à concorrência global crescente. O projeto ainda está em fase inicial e o modelo mais barato deve demorar alguns anos para chegar ao mercado.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1qeeotq/ford_ceo_says_30000_electric_truck_hits_prototype/",
+      "createdAt": "2026-01-16T12:29:46+00:00",
+      "rawScore": 93.615374776767,
+      "relevanceScore": 0.049453313321907534,
+      "suggestedRadius": 49.34,
+      "imageUrl": null,
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Ford está avançando com um protótipo promissor que pode popularizar as caminhonetes elétricas com preço acessível, o que é importante para ampliar o uso de veículos elétricos nos EUA.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O preço inicial de US$ 30 mil é enganoso, pois a primeira versão custará cerca de US$ 85 mil e o modelo barato só deve chegar daqui a anos, provavelmente custando mais do que o prometido.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Embora o protótipo seja um avanço, a Ford enfrenta forte concorrência internacional, especialmente da China, que já domina grande parte do mercado global de veículos elétricos.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    }
+  ]
+}
