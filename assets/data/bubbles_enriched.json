@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-02-11T19:30:40.218138+00:00",
+  "generatedAt": "2026-02-12T12:31:34.425983+00:00",
   "count": 20,
   "items": [
     {
       "id": "reddit_1r1zlqx",
       "rank": 1,
-      "title": "Anúncio da Amazon Ring no Super Bowl gera críticas por vigilância em massa",
-      "label": "Reação ao anúncio de vigilância no Super Bowl",
-      "context": "A Amazon exibiu um comercial no Super Bowl promovendo a câmera Ring com uma função de busca por animais perdidos usando inteligência artificial. O anúncio gerou reações de preocupação sobre privacidade e vigilância. Comentários discutem os riscos e a percepção pública sobre esses dispositivos.",
+      "title": "Reação ao anúncio da Amazon Ring no Super Bowl por preocupações com vigilância em massa",
+      "label": "Reação ao anúncio da Ring no Super Bowl",
+      "context": "A Amazon exibiu um anúncio no Super Bowl promovendo uma nova funcionalidade de câmeras Ring que usa inteligência artificial para procurar animais perdidos. O comercial gerou reações variadas, incluindo críticas à privacidade e preocupações com vigilância. O debate envolve opiniões sobre o uso de tecnologia de vigilância por empresas e governos.",
       "source": "reddit",
       "subreddit": "technology",
       "permalink": "https://www.reddit.com/r/technology/comments/1r1zlqx/amazon_rings_super_bowl_ad_sparks_backlash_amid/",
       "createdAt": "2026-02-11T14:59:19+00:00",
-      "rawScore": 2298.7508496523315,
+      "rawScore": 959.63522868444,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
       "imageUrl": "assets/images/reddit_1r1zlqx_ai.png",
@@ -20,21 +20,21 @@
         {
           "id": "op1",
           "tone": "negative",
-          "text": "O comercial mostrou como a vigilância pode se tornar uma ferramenta de controle e invasão de privacidade.",
+          "text": "O anúncio mostrou como a vigilância doméstica pode se transformar em uma ferramenta de controle e invasão de privacidade.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "positive",
-          "text": "A tecnologia pode ajudar a encontrar animais perdidos e melhorar a segurança nas comunidades.",
+          "text": "A funcionalidade de procurar animais perdidos é útil e pode ajudar muitas pessoas a reencontrar seus pets com facilidade.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O debate é sobre o uso de câmeras de vigilância e os limites da privacidade na era digital.",
+          "text": "O debate sobre vigilância e privacidade é antigo, e esse anúncio reacende preocupações sobre o uso de câmeras conectadas em residências.",
           "source": "reddit",
           "votes": 0
         }
@@ -43,36 +43,36 @@
     {
       "id": "reddit_1r1fid6",
       "rank": 2,
-      "title": "Discord anuncia verificação de idade global com uso de ID, gerando protestos dos usuários",
-      "label": "Reação à verificação de idade do Discord",
-      "context": "O Discord, plataforma de mensagens popular entre gamers, anunciou uma nova medida de verificação de idade usando identificação oficial. Essa mudança gerou reações variadas entre os usuários, incluindo críticas e possíveis migrações para outras plataformas. A decisão ocorre após incidentes de vazamento de dados e preocupações com privacidade.",
+      "title": "Busca por alternativas ao Discord aumenta após anúncio de verificação de idade global",
+      "label": "Alternativas ao Discord e reação dos usuários",
+      "context": "O Discord anunciou uma nova medida de verificação de idade global, solicitando fotos de identidade dos usuários. Essa mudança gerou preocupações sobre privacidade e segurança de dados. Muitos usuários estão considerando ou já migraram para outras plataformas.",
       "source": "reddit",
       "subreddit": "technology",
       "permalink": "https://www.reddit.com/r/technology/comments/1r1fid6/discord_alternatives_searches_jump_10000/",
       "createdAt": "2026-02-10T22:33:48+00:00",
-      "rawScore": 1000.2360430467629,
-      "relevanceScore": 0.42962772443552383,
-      "suggestedRadius": 75.33,
+      "rawScore": 704.4591140542038,
+      "relevanceScore": 0.726859633453784,
+      "suggestedRadius": 87.15,
       "imageUrl": "assets/images/reddit_1r1fid6_ai.png",
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Algumas pessoas preferem manter sua privacidade e não querem passar por verificações invasivas para usar o Discord.",
+          "text": "Prefiro cancelar minha conta do que compartilhar meus documentos com uma empresa que já teve vazamentos.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A exigência de ID mostra desrespeito à privacidade dos usuários e pode aumentar o risco de vazamentos de dados.",
+          "text": "Essa medida é uma invasão de privacidade e mostra a falta de respeito das empresas com os usuários.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Muitos usuários estão considerando alternativas devido às preocupações com privacidade e segurança de dados após o anúncio.",
+          "text": "Muitos estão buscando alternativas por preocupações com privacidade, mas a mudança pode ser difícil devido à integração das comunidades existentes.",
           "source": "reddit",
           "votes": 0
         }
@@ -82,21 +82,21 @@
       "id": "reddit_1r1y50m",
       "rank": 3,
       "title": "Polônia e Itália anunciam que não participarão do Conselho de Paz de Trump",
-      "label": "Polônia e Itália recusam participação",
-      "context": "Polônia e Itália afirmaram que não irão integrar o Conselho de Paz criado por Donald Trump. O anúncio ocorre após o projeto ser divulgado com o objetivo de promover a paz em Gaza. O evento envolve decisões diplomáticas e alianças internacionais.",
+      "label": "Polônia e Itália recusam Conselho de Paz",
+      "context": "Polônia e Itália declararam que não irão participar do Conselho de Paz criado por Trump, que tinha como objetivo promover a resolução de conflitos globais. A decisão foi comunicada oficialmente e faz parte de um debate mais amplo sobre a legitimidade e impacto do conselho. O evento envolve países aliados dos EUA e a controvérsia sobre a iniciativa de Trump.",
       "source": "reddit",
       "subreddit": "worldnews",
       "permalink": "https://www.reddit.com/r/worldnews/comments/1r1y50m/poland_and_italy_say_they_will_not_join_trumps/",
       "createdAt": "2026-02-11T14:00:28+00:00",
-      "rawScore": 925.8915464155009,
-      "relevanceScore": 0.39697192451429203,
-      "suggestedRadius": 73.8,
+      "rawScore": 565.8282229282428,
+      "relevanceScore": 0.5784692072117238,
+      "suggestedRadius": 81.63,
       "imageUrl": "assets/images/reddit_1r1y50m_ai.png",
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A decisão reforça a soberania dos países e evita se envolver em iniciativas que podem prejudicar seus interesses nacionais.",
+          "text": "A decisão de Polônia e Itália reforça a postura de resistência contra uma iniciativa que parece mais uma tentativa de controle do que de paz real.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -104,7 +104,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Recusar participação mostra desinteresse em soluções diplomáticas e reforça o isolamento de Washington na política internacional.",
+          "text": "A recusa mostra a falta de legitimidade do conselho, que parece ser uma jogada política de Trump para manipular conflitos ao seu favor.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -112,7 +112,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A decisão reflete a autonomia dos países em escolher suas alianças e participar ou não de iniciativas internacionais promovidas por outros governos.",
+          "text": "A decisão de Polônia e Itália de não participar reflete divergências sobre a abordagem de Trump para a diplomacia e resolução de conflitos internacionais.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
@@ -124,20 +124,20 @@
       "rank": 4,
       "title": "Orbán afirma que a UE e a Ucrânia declararam guerra à Hungria",
       "label": "Decisão de Orbán sobre guerra com UE e Ucrânia",
-      "context": "Orbán declarou que a União Europeia e a Ucrânia estão em guerra contra a Hungria. O comentário ocorre em um momento de tensão política envolvendo o governo húngaro. A declaração tem impacto na relação entre Hungria, UE e Ucrânia.",
+      "context": "Orbán declarou que a União Europeia e a Ucrânia 'declararam guerra' à Hungria. A declaração ocorre em um momento de tensões políticas e eleitorais na Hungria. O debate envolve a postura do governo húngaro frente às ações da UE e da Ucrânia.",
       "source": "reddit",
       "subreddit": "worldnews",
       "permalink": "https://www.reddit.com/r/worldnews/comments/1r1sqqp/orbán_says_eu_and_ukraine_have_declared_war_on/",
       "createdAt": "2026-02-11T09:20:59+00:00",
-      "rawScore": 695.9153835498012,
-      "relevanceScore": 0.2959549575363098,
-      "suggestedRadius": 68.64,
+      "rawScore": 493.3118275661533,
+      "relevanceScore": 0.5008476992641125,
+      "suggestedRadius": 78.46,
       "imageUrl": "assets/images/reddit_1r1sqqp_ai.png",
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Orbán está defendendo os interesses da Hungria contra ameaças externas, mostrando força e autonomia frente à pressão da UE e da Ucrânia.",
+          "text": "Orbán está defendendo os interesses da Hungria contra a interferência da UE e da Ucrânia, mostrando força e autonomia nacional.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -145,7 +145,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Orbán está exagerando a situação para justificar sua postura autoritária e desrespeitar as regras da União Europeia, prejudicando a cooperação internacional.",
+          "text": "Orbán está exagerando a situação para justificar sua postura autoritária e desrespeitar as instituições europeias e a soberania da Ucrânia.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -153,7 +153,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A declaração de Orbán reflete uma postura de resistência política, mas a terminologia de guerra pode aumentar a tensão entre Hungria, UE e Ucrânia.",
+          "text": "A declaração de Orbán reflete uma postura de resistência às pressões externas, mas o impacto real dessa declaração na política europeia ainda é incerto.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
@@ -161,62 +161,106 @@
       ]
     },
     {
-      "id": "reddit_1r11yvc",
+      "id": "reddit_1r228yi",
       "rank": 5,
-      "title": "Primeiros sinais de burnout entre quem mais usa IA",
-      "label": "Debate sobre impacto da IA no trabalho",
-      "context": "Algumas pessoas que usam intensamente inteligência artificial relatam sentir-se exaustas ou sobrecarregadas. Comentários discutem os efeitos do uso de IA na rotina profissional e na saúde mental. O debate reflete opiniões variadas sobre os benefícios e problemas da tecnologia.",
+      "title": "Campanha QuitGPT incentiva cancelamento de assinaturas do ChatGPT",
+      "label": "Debate sobre a campanha QuitGPT",
+      "context": "Uma campanha chamada QuitGPT está incentivando as pessoas a cancelarem suas assinaturas do ChatGPT. Os comentários refletem opiniões variadas sobre o uso e a importância da ferramenta. O debate envolve questões de tecnologia, economia e política.",
       "source": "reddit",
       "subreddit": "technology",
-      "permalink": "https://www.reddit.com/r/technology/comments/1r11yvc/the_first_signs_of_burnout_are_coming_from_the/",
-      "createdAt": "2026-02-10T14:18:58+00:00",
-      "rawScore": 440.0794911518095,
-      "relevanceScore": 0.18357911139593108,
-      "suggestedRadius": 61.71,
-      "imageUrl": "assets/images/reddit_1r11yvc_ai.png",
+      "permalink": "https://www.reddit.com/r/technology/comments/1r228yi/a_quitgpt_campaign_is_urging_people_to_cancel/",
+      "createdAt": "2026-02-11T16:38:49+00:00",
+      "rawScore": 400.8712756535082,
+      "relevanceScore": 0.4018993855877252,
+      "suggestedRadius": 74.04,
+      "imageUrl": "assets/images/reddit_1r228yi_ai.png",
       "opinions": [
         {
           "id": "op1",
-          "tone": "negative",
-          "text": "O uso excessivo de IA aumenta a carga de trabalho e causa fadiga, mesmo para quem abraça a tecnologia.",
+          "tone": "positive",
+          "text": "Cancelar o ChatGPT é uma jogada inteligente para proteger a economia e evitar controle excessivo das big techs.",
           "source": "reddit",
-          "votes": 0
+          "votes": 0,
+          "ideology": "far_right"
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Muitos estão cansados de ver produtos com IA sendo usados de forma inadequada, o que contribui para o burnout.",
+          "text": "A campanha é uma tentativa de prejudicar o acesso à tecnologia que pode ajudar na educação e no trabalho, reforçando o controle corporativo.",
           "source": "reddit",
-          "votes": 0
+          "votes": 0,
+          "ideology": "far_left"
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A implementação de IA pode aumentar a produtividade, mas também pode levar ao excesso de tarefas e ao cansaço dos trabalhadores.",
+          "text": "A decisão de cancelar ou não o ChatGPT depende das necessidades individuais e do entendimento sobre o impacto da ferramenta na sociedade.",
           "source": "reddit",
-          "votes": 0
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ]
+    },
+    {
+      "id": "reddit_1r25jeo",
+      "rank": 6,
+      "title": "Debate sobre o risco de mudança irreversível no clima global",
+      "label": "Mudança climática · Debate sobre ponto de não retorno",
+      "context": "Cientistas alertam que a Terra pode estar se aproximando de um ponto de não retorno em relação às mudanças climáticas. Comentários discutem a responsabilidade, as ações e o impacto futuro dessa situação. O debate reflete diferentes opiniões sobre o que fazer ou se é possível evitar consequências graves.",
+      "source": "reddit",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1r25jeo/point_of_no_return_a_hellish_hothouse_earth/",
+      "createdAt": "2026-02-11T18:35:32+00:00",
+      "rawScore": 367.15723652975083,
+      "relevanceScore": 0.36581189747246645,
+      "suggestedRadius": 72.29,
+      "imageUrl": "assets/images/reddit_1r25jeo_ai.png",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A crise climática exige ações rápidas e decisivas, incluindo políticas fortes e investimentos em tecnologia para proteger o futuro da humanidade.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A responsabilidade é das elites e do sistema capitalista que prioriza lucros, enquanto a maioria sofre com os efeitos e nada muda de verdade.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A mudança climática é uma questão urgente que requer ações coordenadas, incluindo políticas públicas, inovação tecnológica e conscientização da sociedade.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
         }
       ]
     },
     {
       "id": "reddit_1r0w8gn",
-      "rank": 6,
-      "title": "Europa inicia sua separação de Visa e Mastercard com nova alternativa de pagamento",
-      "label": "Europa busca sistema de pagamento independente",
-      "context": "A União Europeia está desenvolvendo um sistema de pagamento próprio para reduzir a dependência de empresas americanas como Visa e Mastercard. Essa iniciativa visa fortalecer a autonomia financeira dos países europeus. A decisão ocorre em um momento de tensões geopolíticas e econômicas globais.",
+      "rank": 7,
+      "title": "Início da separação da Europa de sistemas de pagamento Visa e Mastercard",
+      "label": "Europa busca alternativa a Visa/Mastercard",
+      "context": "A União Europeia está desenvolvendo um sistema de pagamento próprio para reduzir a dependência de empresas americanas como Visa e Mastercard. Essa iniciativa visa aumentar a autonomia financeira dos países europeus. A proposta surge em um contexto de tensões econômicas e geopolíticas globais.",
       "source": "reddit",
       "subreddit": "economics",
       "permalink": "https://www.reddit.com/r/Economics/comments/1r0w8gn/europes_24_trillion_breakup_with_visa_and/",
       "createdAt": "2026-02-10T09:26:19+00:00",
-      "rawScore": 411.9906855240224,
-      "relevanceScore": 0.17124111116496746,
-      "suggestedRadius": 60.83,
+      "rawScore": 350.35055750169226,
+      "relevanceScore": 0.3478220378933263,
+      "suggestedRadius": 71.39,
       "imageUrl": "assets/images/reddit_1r0w8gn_ai.png",
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Europa deve criar sua própria infraestrutura financeira para garantir sua soberania e segurança econômica, sem depender de interesses estrangeiros.",
+          "text": "Criar uma alternativa europeia fortalece a soberania do continente e reduz o controle de empresas americanas sobre nossas finanças.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -224,7 +268,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa iniciativa é um desperdício de recursos e pode atrasar a cooperação internacional, além de aumentar a fragmentação econômica na Europa.",
+          "text": "Essa iniciativa pode complicar o sistema financeiro europeu, aumentando custos e dificultando a cooperação internacional em pagamentos.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -232,7 +276,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A criação de um sistema de pagamento europeu pode promover maior competição e inovação, beneficiando consumidores e fortalecendo a autonomia financeira da região.",
+          "text": "A criação de um sistema de pagamento europeu busca diversificar opções e diminuir a dependência de empresas estrangeiras, promovendo maior autonomia financeira.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
@@ -240,18 +284,217 @@
       ]
     },
     {
+      "id": "reddit_1r22van",
+      "rank": 8,
+      "title": "Quase metade das munições .50 cal apreendidas pelo governo mexicano veio de fábrica do Exército dos EUA, diz ministro da defesa",
+      "label": "Apreensão de munições .50 cal no México",
+      "context": "O governo mexicano anunciou que uma grande quantidade de munições .50 cal apreendidas foi produzida por uma fábrica do Exército dos EUA. A declaração foi feita pelo ministro da defesa do México, destacando a origem dessas munições. A questão levanta debates sobre o tráfico de armas e a origem de munições usadas no país.",
+      "source": "reddit",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1r22van/nearly_half_of_powerful_50caliber_ammo_seized_by/",
+      "createdAt": "2026-02-11T17:01:19+00:00",
+      "rawScore": 346.04829345855666,
+      "relevanceScore": 0.34321689693245117,
+      "suggestedRadius": 71.15,
+      "imageUrl": "assets/images/reddit_1r22van_ai.png",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A origem dessas munições reforça a necessidade de fortalecer a segurança na fronteira e combater o tráfico de armas vindo dos EUA.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa situação evidencia a falha na fiscalização e na cooperação internacional, permitindo que armas de origem militar cheguem às mãos de criminosos no México.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A origem das munições aponta para a complexidade do mercado de armas e a necessidade de políticas que controlem a circulação de munições de alta potência.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ]
+    },
+    {
+      "id": "reddit_1r1y2zt",
+      "rank": 9,
+      "title": "Evidências de que o TDAH pode estar relacionado a distúrbios do ritmo circadiano",
+      "label": "TDAH e ritmo circadiano",
+      "context": "Pesquisadores sugerem que o TDAH pode estar ligado a problemas no ciclo de sono e vigília. Estudos indicam que muitos com TDAH apresentam alterações no ritmo circadiano, afetando o sono e o comportamento. A relação ainda está sendo investigada na comunidade científica.",
+      "source": "reddit",
+      "subreddit": "science",
+      "permalink": "https://www.reddit.com/r/science/comments/1r1y2zt/adhd_as_a_circadian_rhythm_disorder_evidence_and/",
+      "createdAt": "2026-02-11T13:58:11+00:00",
+      "rawScore": 295.0682019413709,
+      "relevanceScore": 0.28864783625158996,
+      "suggestedRadius": 68.24,
+      "imageUrl": "assets/images/reddit_1r1y2zt_ai.png",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Se o TDAH está ligado ao ritmo circadiano, tratamentos que ajustem o sono podem melhorar bastante a qualidade de vida das pessoas.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Focar apenas no ritmo circadiano pode simplificar demais o TDAH, que é uma condição complexa com múltiplos fatores biológicos e ambientais.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A pesquisa mostra uma possível ligação entre TDAH e distúrbios do sono, mas ainda há muito a entender sobre essa relação e suas implicações para tratamentos.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
+      "id": "reddit_1r2awts",
+      "rank": 10,
+      "title": "Secretário do Tesouro acusa Coinbase de bloquear legislação importante",
+      "label": "Coinbase e legislação · Acusação do Tesouro",
+      "context": "O secretário do Tesouro alertou que a Coinbase estaria impedindo a aprovação de uma lei importante. A acusação sugere uma possível influência de empresas privadas na política. O debate envolve interesses corporativos e regulamentação financeira.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1r2awts/treasury_secretary_bessent_warns_coinbase_is/",
+      "createdAt": "2026-02-11T21:54:58+00:00",
+      "rawScore": 292.8233538854263,
+      "relevanceScore": 0.2862449521817789,
+      "suggestedRadius": 68.1,
+      "imageUrl": "assets/images/reddit_1r2awts_ai.png",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Coinbase está defendendo os interesses do mercado livre e da inovação, resistindo a regulações excessivas que prejudicam o setor financeiro.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Empresas como Coinbase usam seu poder para manipular o sistema político, impedindo leis que poderiam proteger os consumidores e regular o mercado financeiro.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A acusação levanta questões sobre o papel das empresas privadas na política e a necessidade de transparência na influência corporativa sobre a legislação.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ]
+    },
+    {
+      "id": "reddit_1r20w76",
+      "rank": 11,
+      "title": "Pesquisador de segurança em IA deixa cargo alertando sobre risco global",
+      "label": "Decisão de pesquisador de IA · Alerta de risco",
+      "context": "Um pesquisador de segurança em inteligência artificial anunciou sua saída, alertando que o mundo está em perigo devido ao avanço da tecnologia. A decisão gerou debates sobre os riscos e o controle da IA. Comentários discutem possíveis ameaças e interesses políticos.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1r20w76/anthropic_safety_researcher_quits_warning_world/",
+      "createdAt": "2026-02-11T15:48:17+00:00",
+      "rawScore": 276.7394498228964,
+      "relevanceScore": 0.269028750510633,
+      "suggestedRadius": 67.12,
+      "imageUrl": "assets/images/reddit_1r20w76_ai.png",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A saída do pesquisador reforça a necessidade de controle forte sobre as corporações de IA para proteger a segurança nacional.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essas alarmantes mensagens só aumentam o medo e a desconfiança, sem apresentar soluções concretas ou detalhes sobre os riscos reais da IA.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A preocupação do pesquisador destaca a importância de regulamentar a IA para evitar riscos, mas é necessário discutir evidências e ações específicas.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ]
+    },
+    {
+      "id": "reddit_1r2ei18",
+      "rank": 12,
+      "title": "Estudo revela causa genética da coagulação sanguínea relacionada às vacinas Johnson & Johnson e AstraZeneca",
+      "label": "Causa genética da coagulação em vacinas",
+      "context": "Pesquisadores identificaram uma causa genética para a coagulação sanguínea associada às vacinas Johnson & Johnson e AstraZeneca, relacionadas à condição VITT. O estudo explica que a reação ocorre devido a fatores genéticos específicos. Essa descoberta ajuda a entender melhor os efeitos colaterais dessas vacinas.",
+      "source": "reddit",
+      "subreddit": "science",
+      "permalink": "https://www.reddit.com/r/science/comments/1r2ei18/blood_clotting_associated_with_both_johnson/",
+      "createdAt": "2026-02-12T00:19:07+00:00",
+      "rawScore": 269.57543298741695,
+      "relevanceScore": 0.26136039100440883,
+      "suggestedRadius": 66.67,
+      "imageUrl": "assets/images/reddit_1r2ei18_ai.png",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Essa pesquisa mostra que entender a causa genética pode ajudar a prevenir efeitos colaterais graves, fortalecendo a confiança nas vacinas.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Focar na causa genética pode atrasar a avaliação de riscos e reforçar a desconfiança nas vacinas, prejudicando a saúde pública.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A descoberta ajuda a entender melhor os efeitos colaterais, mas é importante continuar monitorando a segurança de todas as vacinas.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ]
+    },
+    {
       "id": "reddit_1r1hera",
-      "rank": 7,
+      "rank": 13,
       "title": "Drones ucranianos supostamente atacaram refinaria de petróleo na Rússia",
       "label": "Ataque de drones na Rússia",
-      "context": "Drones ucranianos teriam atacado uma refinaria de petróleo na cidade de Volgograd, na Rússia, causando incêndios. O evento é parte do conflito entre Ucrânia e Rússia, que envolve ações militares e ataques de drones. A notícia gera debates sobre a escalada do conflito e suas consequências.",
+      "context": "Drones supostamente ucranianos atacaram uma refinaria de petróleo em Volgograd, na Rússia. O evento foi relatado por mídia local e gerou debates sobre o conflito. As opiniões variam entre diferentes posições ideológicas.",
       "source": "reddit",
       "subreddit": "worldnews",
       "permalink": "https://www.reddit.com/r/worldnews/comments/1r1hera/ukrainian_drones_reportedly_strike_russias/",
       "createdAt": "2026-02-10T23:49:15+00:00",
-      "rawScore": 363.80598294512373,
-      "relevanceScore": 0.1500759936649464,
-      "suggestedRadius": 59.24,
+      "rawScore": 247.29914402642123,
+      "relevanceScore": 0.23751586409438577,
+      "suggestedRadius": 65.24,
       "imageUrl": "assets/images/reddit_1r1hera_ai.png",
       "opinions": [
         {
@@ -273,7 +516,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O ataque destaca a escalada do conflito e a importância de buscar negociações para evitar mais violência e danos civis.",
+          "text": "O ataque destaca a complexidade do conflito e a importância de buscar negociações para evitar mais violência.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
@@ -281,106 +524,62 @@
       ]
     },
     {
-      "id": "reddit_1r20w76",
-      "rank": 8,
-      "title": "Pesquisador de segurança em IA deixa cargo alertando sobre riscos globais",
-      "label": "Decisão de pesquisador de IA sobre riscos mundiais",
-      "context": "Um pesquisador de segurança em inteligência artificial anunciou sua saída, alertando que o mundo está em perigo devido ao avanço da tecnologia. A decisão gerou debates sobre os riscos associados às IA e a responsabilidade das empresas. O evento é relevante para discussões sobre segurança e ética na tecnologia.",
+      "id": "reddit_1r2blnr",
+      "rank": 14,
+      "title": "Investigadores recuperaram vídeo de câmera Google Nest de Nancy Guthrie dos sistemas internos",
+      "label": "Acesso a vídeo do Nest sem assinatura",
+      "context": "Um vídeo de uma câmera Google Nest de Nancy Guthrie foi recuperado por investigadores, mesmo ela não tendo assinatura ativa. Isso levanta questões sobre armazenamento e acesso a dados de câmeras conectadas. O evento mostra como as informações podem ser acessadas por autoridades.",
       "source": "reddit",
       "subreddit": "technology",
-      "permalink": "https://www.reddit.com/r/technology/comments/1r20w76/anthropic_safety_researcher_quits_warning_world/",
-      "createdAt": "2026-02-11T15:48:17+00:00",
-      "rawScore": 332.75420187063844,
-      "relevanceScore": 0.13643650727504347,
-      "suggestedRadius": 58.16,
-      "imageUrl": "assets/images/reddit_1r20w76_ai.png",
+      "permalink": "https://www.reddit.com/r/technology/comments/1r2blnr/investigators_wrangled_video_from_nancy_guthries/",
+      "createdAt": "2026-02-11T22:21:12+00:00",
+      "rawScore": 241.10876717058403,
+      "relevanceScore": 0.230889688263185,
+      "suggestedRadius": 64.83,
+      "imageUrl": "assets/images/reddit_1r2blnr_ai.png",
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A saída do pesquisador reforça a necessidade de controle estatal forte para proteger a nação contra os perigos das IA descontroladas.",
+          "text": "A recuperação mostra a eficácia das investigações e o papel das câmeras na resolução de crimes.",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
+          "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa preocupação exagerada serve para justificar o medo e a privatização desenfreada, sem considerar os benefícios que a IA pode trazer ao mundo.",
+          "text": "Isso revela a invasão de privacidade e o risco de vigilância constante, mesmo sem assinatura ativa.",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
+          "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A saída do pesquisador destaca a importância de regulamentações claras e de uma discussão aberta sobre os riscos e benefícios da inteligência artificial.",
+          "text": "A situação destaca a importância de entender como os dados de câmeras conectadas são armazenados e acessados pelas empresas e autoridades.",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
+          "votes": 0
         }
       ]
     },
     {
-      "id": "reddit_1qznn73",
-      "rank": 9,
-      "title": "Estudo mostra que o álcool altera a comunicação cerebral de forma rápida",
-      "label": "Efeito do álcool na conexão cerebral",
-      "context": "Uma pesquisa recente analisou como o consumo de uma única dose de álcool afeta a atividade do cérebro. O estudo envolveu adultos saudáveis e observou mudanças na rede neural após o consumo. Essas descobertas ajudam a entender os efeitos imediatos do álcool na mente.",
-      "source": "reddit",
-      "subreddit": "science",
-      "permalink": "https://www.reddit.com/r/science/comments/1qznn73/alcohol_shifts_the_brain_into_a_fragmented_and/",
-      "createdAt": "2026-02-08T22:57:40+00:00",
-      "rawScore": 330.024609838781,
-      "relevanceScore": 0.1352375347175853,
-      "suggestedRadius": 58.06,
-      "imageUrl": "assets/images/reddit_1qznn73_ai.png",
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Essa pesquisa reforça que o álcool, quando consumido moderadamente, é uma ferramenta eficaz para relaxar e melhorar a comunicação social.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Estudos assim mostram que o álcool causa danos ao cérebro, reforçando a necessidade de políticas mais restritivas e de conscientização sobre seus riscos.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A pesquisa explica como o álcool afeta o cérebro rapidamente, ajudando a entender seus efeitos, sem julgar seu uso ou recomendar políticas específicas.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ]
-    },
-    {
-      "id": "reddit_1r1favl",
-      "rank": 10,
-      "title": "Companhias aéreas enviam aviões vazios para repatriar canadenses presos em Cuba",
-      "label": "Decisão de voos vazios para repatriação",
-      "context": "Recentemente, companhias aéreas enviaram aviões vazios para Cuba para buscar canadenses que estavam presos no país. Essa ação gerou debates sobre a eficiência e as razões por trás dessa estratégia. O evento envolve empresas aéreas, o governo canadense e a situação dos viajantes em Cuba.",
+      "id": "reddit_1r230ho",
+      "rank": 15,
+      "title": "Presidente do Irã pede desculpas pela repressão violenta aos protestos",
+      "label": "Reação do presidente iraniano à repressão",
+      "context": "O presidente do Irã pediu desculpas pela repressão que resultou na morte de milhares de manifestantes. A repressão foi uma resposta às manifestações contra o governo. A situação gerou debates sobre a responsabilidade e as ações do governo iraniano.",
       "source": "reddit",
       "subreddit": "worldnews",
-      "permalink": "https://www.reddit.com/r/worldnews/comments/1r1favl/airlines_sending_empty_planes_for_thousands_of/",
-      "createdAt": "2026-02-10T22:25:49+00:00",
-      "rawScore": 264.3583578370097,
-      "relevanceScore": 0.10639365138910079,
-      "suggestedRadius": 55.57,
-      "imageUrl": "assets/images/reddit_1r1favl_ai.png",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1r230ho/irans_president_apologises_for_brutal_protests/",
+      "createdAt": "2026-02-11T17:06:26+00:00",
+      "rawScore": 223.2638066962947,
+      "relevanceScore": 0.2117884528203103,
+      "suggestedRadius": 63.61,
+      "imageUrl": "assets/images/reddit_1r230ho_ai.png",
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Enviar aviões vazios mostra a força do Canadá em proteger seus cidadãos, mesmo que isso gere custos extras para as empresas aéreas.",
+          "text": "A desculpa mostra que o presidente está disposto a reconhecer erros, mesmo em um regime autoritário, o que pode indicar uma tentativa de melhorar a imagem internacional.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -388,7 +587,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa decisão evidencia a má gestão do governo canadense, que prioriza ações simbólicas ao invés de soluções eficazes para os viajantes presos.",
+          "text": "O pedido de desculpas é uma tentativa vazia de encobrir a repressão brutal e não resolve a violência de um governo que massacrou seus próprios cidadãos.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -396,7 +595,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A medida de enviar aviões vazios é uma estratégia logística para garantir a segurança dos canadenses em Cuba, embora gere debates sobre custos e eficiência.",
+          "text": "A declaração do presidente pode ser vista como uma reação às críticas internacionais, mas não necessariamente indica uma mudança nas ações do governo iraniano.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
@@ -404,62 +603,65 @@
       ]
     },
     {
-      "id": "reddit_1r1y2zt",
-      "rank": 11,
-      "title": "Evidências de que o TDAH pode estar relacionado a distúrbios do ritmo circadiano",
-      "label": "TDAH e ritmo circadiano",
-      "context": "Pesquisas indicam que muitos indivíduos com TDAH apresentam alterações no ciclo de sono e vigília. Essa relação pode influenciar o entendimento e o tratamento do transtorno. O estudo analisa a prevalência e as implicações dessa conexão.",
+      "id": "reddit_1r260pp",
+      "rank": 16,
+      "title": "Estimativas da NATO indicam altas perdas russas na guerra",
+      "label": "Casualidades russas na guerra",
+      "context": "A NATO divulgou estimativas de perdas russas na guerra na Ucrânia, incluindo números de soldados mortos e feridos. Essas informações refletem o impacto do conflito para a Rússia. O debate envolve opiniões sobre as consequências e a gravidade dessas perdas.",
       "source": "reddit",
-      "subreddit": "science",
-      "permalink": "https://www.reddit.com/r/science/comments/1r1y2zt/adhd_as_a_circadian_rhythm_disorder_evidence_and/",
-      "createdAt": "2026-02-11T13:58:11+00:00",
-      "rawScore": 254.6030502975105,
-      "relevanceScore": 0.10210863520612738,
-      "suggestedRadius": 55.17,
-      "imageUrl": "assets/images/reddit_1r1y2zt_ai.png",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1r260pp/nato_estimates_russian_casualties_on_the_front/",
+      "createdAt": "2026-02-11T18:52:53+00:00",
+      "rawScore": 203.73631694044366,
+      "relevanceScore": 0.19088623900077037,
+      "suggestedRadius": 62.21,
+      "imageUrl": "assets/images/reddit_1r260pp_ai.png",
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Se o TDAH está ligado ao ritmo circadiano, tratamentos que ajustem o sono podem ser mais eficazes do que medicações tradicionais.",
+          "text": "Essas altas perdas mostram que a Rússia está sendo forte e resistente, mesmo com dificuldades, e que a guerra é uma demonstração de poder militar.",
           "source": "reddit",
-          "votes": 0
+          "votes": 0,
+          "ideology": "far_right"
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Focar apenas na relação com o sono pode simplificar demais o TDAH, que tem causas complexas e multifatoriais.",
+          "text": "Essas perdas representam o fracasso da política militar russa e mostram o custo humano e social que o conflito está causando para o país.",
           "source": "reddit",
-          "votes": 0
+          "votes": 0,
+          "ideology": "far_left"
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A pesquisa sugere uma conexão entre o ritmo circadiano e o TDAH, mas ainda há necessidade de estudos para entender melhor essa relação.",
+          "text": "As estimativas de perdas indicam o impacto do conflito na Rússia, mas é importante considerar os contextos políticos e militares ao interpretar esses números.",
           "source": "reddit",
-          "votes": 0
+          "votes": 0,
+          "ideology": "liberal"
         }
       ]
     },
     {
       "id": "reddit_1r1xit8",
-      "rank": 12,
-      "title": "Relatório de empregos nos EUA mostra aumento de 130 mil vagas em janeiro",
-      "label": "Decisão de emprego nos EUA · Dados de janeiro",
-      "context": "O relatório oficial dos EUA revelou que o país criou 130 mil empregos em janeiro, acima do esperado. A taxa de desemprego ficou em 4,3%. O dado é importante para entender a saúde do mercado de trabalho americano.",
+      "rank": 17,
+      "title": "EUA de 130 mil empregos em janeiro supera expectativas e taxa de desemprego fica em 4,3%",
+      "label": "Mercado de trabalho dos EUA · Novas vagas em janeiro",
+      "context": "Os Estados Unidos criaram 130 mil empregos em janeiro, segundo dados oficiais, o que foi mais do que o esperado pelos analistas. A taxa de desemprego permaneceu em 4,3%. Esses números influenciam a percepção sobre a saúde da economia americana.",
       "source": "reddit",
       "subreddit": "economics",
       "permalink": "https://www.reddit.com/r/Economics/comments/1r1xit8/us_payrolls_rose_by_130000_in_january_more_than/",
       "createdAt": "2026-02-11T13:34:25+00:00",
-      "rawScore": 226.15621342975047,
-      "relevanceScore": 0.08961336985040144,
-      "suggestedRadius": 53.96,
+      "rawScore": 184.09420918352993,
+      "relevanceScore": 0.1698613381387209,
+      "suggestedRadius": 60.73,
       "imageUrl": "assets/images/reddit_1r1xit8_ai.png",
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Esse aumento de empregos mostra que a economia americana está forte e resistente às crises, reforçando a confiança no mercado livre.",
+          "text": "O aumento de empregos mostra que a economia dos EUA está forte e resistente, mesmo com desafios globais. Isso reforça a confiança no mercado e na gestão econômica atual.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -467,7 +669,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Os números podem estar inflados ou revisados para esconder a real fragilidade do mercado de trabalho, que ainda enfrenta muitos desafios.",
+          "text": "Os números podem estar inflados por revisões e ajustes estatísticos. A real situação do mercado de trabalho ainda é preocupante, com crescimento fraco e setores estagnados.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -475,7 +677,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O relatório fornece uma visão parcial da economia, e é importante acompanhar revisões futuras para entender melhor o cenário de emprego.",
+          "text": "Os dados indicam uma recuperação moderada do mercado de trabalho, com setores como saúde e construção liderando as contratações. Ainda assim, é importante acompanhar as revisões futuras.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
@@ -483,261 +685,24 @@
       ]
     },
     {
-      "id": "reddit_1r11gkr",
-      "rank": 13,
-      "title": "ONU monitora quanto os EUA planejam pagar de sua dívida de quase 4 bilhões",
-      "label": "Reação à dívida dos EUA na ONU",
-      "context": "A Organização das Nações Unidas (ONU) está aguardando para saber quanto os Estados Unidos pretendem pagar de sua dívida de quase 4 bilhões de dólares. Muitos países também têm dívidas pendentes na organização, o que afeta seu funcionamento. O debate envolve questões sobre o papel financeiro dos EUA na ONU e a responsabilidade dos demais países.",
-      "source": "reddit",
-      "subreddit": "worldnews",
-      "permalink": "https://www.reddit.com/r/worldnews/comments/1r11gkr/un_is_waiting_to_see_how_much_the_us_intends_to/",
-      "createdAt": "2026-02-10T13:58:57+00:00",
-      "rawScore": 182.77699424167713,
-      "relevanceScore": 0.07055905962255728,
-      "suggestedRadius": 51.94,
-      "imageUrl": "assets/images/reddit_1r11gkr_ai.png",
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Os EUA não devem pagar essa dívida, pois a ONU é uma organização inútil que só serve para gastar dinheiro com burocracia.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A dívida dos EUA na ONU reflete o imperialismo e a exploração, e o país deveria assumir sua responsabilidade financeira para apoiar a organização global.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A questão do pagamento dos EUA na ONU é complexa, envolvendo interesses políticos e financeiros, e é importante buscar uma solução que mantenha a organização funcionando.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ]
-    },
-    {
-      "id": "reddit_1r1ht9h",
-      "rank": 14,
-      "title": "Projeto de caça de nova geração da França e Alemanha está 'morto'",
-      "label": "Fim do projeto de caça europeu",
-      "context": "França e Alemanha estavam trabalhando juntas em um projeto de caça de nova geração, mas a iniciativa foi considerada encerrada. O debate envolve questões de cooperação, financiamento e interesses nacionais. A decisão impacta a capacidade de defesa europeia.",
-      "source": "reddit",
-      "subreddit": "worldnews",
-      "permalink": "https://www.reddit.com/r/worldnews/comments/1r1ht9h/france_and_germanys_nextgeneration_fighter_jet/",
-      "createdAt": "2026-02-11T00:05:56+00:00",
-      "rawScore": 155.23943232320258,
-      "relevanceScore": 0.058463193040953494,
-      "suggestedRadius": 50.51,
-      "imageUrl": "assets/images/reddit_1r1ht9h_ai.png",
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A falha do projeto mostra que a Europa precisa investir mais em sua própria defesa, sem depender de alianças fracassadas.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A morte do projeto revela a falta de cooperação real na Europa, prejudicando a autonomia e a segurança comum.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A decisão reflete dificuldades na colaboração internacional e na divisão de custos em projetos de defesa europeus.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ]
-    },
-    {
-      "id": "reddit_1r1zl33",
-      "rank": 15,
-      "title": "Aumento de inadimplência em empréstimos estudantis nos EUA",
-      "label": "Inadimplência em empréstimos estudantis",
-      "context": "Muitos estudantes que fizeram empréstimos estudantis não estão pagando suas dívidas, levando a um aumento na inadimplência. Diversas opiniões discutem as causas e possíveis soluções para o problema. O debate envolve questões sobre políticas de pagamento e o impacto na economia.",
-      "source": "reddit",
-      "subreddit": "economics",
-      "permalink": "https://www.reddit.com/r/Economics/comments/1r1zl33/millions_of_student_loan_borrowers_arent_repaying/",
-      "createdAt": "2026-02-11T14:58:34+00:00",
-      "rawScore": 144.0676184518909,
-      "relevanceScore": 0.05355597683706589,
-      "suggestedRadius": 49.89,
-      "imageUrl": "assets/images/reddit_1r1zl33_ai.png",
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Planos de pagamento baseados na renda podem ajudar quem enfrenta dificuldades, mas precisam refletir o aumento do custo de vida desde a pandemia.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A dívida estudantil é resultado de um sistema que privilegia o lucro e prejudica quem busca educação pública de qualidade. É preciso cancelar ou perdoar esses empréstimos.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Algumas pessoas acreditam que os empréstimos estudantis deveriam ser perdoados, enquanto outras defendem que os devedores devem pagar suas dívidas para evitar prejuízos econômicos.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ]
-    },
-    {
-      "id": "reddit_1r220n5",
-      "rank": 16,
-      "title": "Estudo mostra que jejum intermitente reduz sintomas de Crohn em 40%",
-      "label": "Jejum intermitente e Crohn",
-      "context": "Um estudo recente indica que o jejum 16:8 pode diminuir sintomas de Crohn e reduzir inflamação. A pesquisa foi feita com pacientes que têm a doença há anos. O tema levanta debates sobre dieta e saúde intestinal.",
-      "source": "reddit",
-      "subreddit": "science",
-      "permalink": "https://www.reddit.com/r/science/comments/1r220n5/randomized_clinical_trial_shows_that_intermittent/",
-      "createdAt": "2026-02-11T16:30:17+00:00",
-      "rawScore": 119.83729752031121,
-      "relevanceScore": 0.042912814959281724,
-      "suggestedRadius": 48.43,
-      "imageUrl": "assets/images/reddit_1r220n5_ai.png",
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Este estudo reforça que horários de alimentação podem ser essenciais para melhorar a saúde, apoiando práticas que promovem o bem-estar e a perda de peso.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Focar apenas no jejum ignora os riscos e limitações, especialmente para quem já sofre de condições como Crohn, podendo piorar a saúde de forma não controlada.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A pesquisa sugere que o momento das refeições pode influenciar a saúde intestinal, mas é importante considerar diferentes fatores e consultar profissionais antes de mudanças na dieta.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ]
-    },
-    {
-      "id": "reddit_1r0xsti",
-      "rank": 17,
-      "title": "Estudo sugere que atitudes preconceituosas podem aumentar o sofrimento psicológico ao longo do tempo",
-      "label": "Relação entre preconceito e saúde mental",
-      "context": "Uma pesquisa aponta que crenças preconceituosas podem levar a um aumento do sofrimento psicológico, invertendo a ideia de que doenças mentais causam atitudes racistas. O estudo analisa a relação entre esses fatores ao longo do tempo. A discussão envolve interpretações sobre a origem do racismo e saúde mental.",
-      "source": "reddit",
-      "subreddit": "science",
-      "permalink": "https://www.reddit.com/r/science/comments/1r0xsti/new_research_challenges_the_common_belief_that/",
-      "createdAt": "2026-02-10T11:01:56+00:00",
-      "rawScore": 109.78739952401662,
-      "relevanceScore": 0.03849839999829884,
-      "suggestedRadius": 47.77,
-      "imageUrl": "assets/images/reddit_1r0xsti_ai.png",
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Preconceito pode ser uma forma de defesa emocional, não uma doença mental. Essa pesquisa confunde causas com efeitos.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A ideia de que atitudes racistas aumentam o sofrimento mental reforça estereótipos e patologiza comportamentos sociais, o que é problemático.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O estudo mostra uma relação entre preconceito e saúde mental, mas não explica as causas ou se uma leva à outra. É uma área que precisa de mais pesquisa.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ]
-    },
-    {
-      "id": "reddit_1r18693",
+      "id": "reddit_1r2i8tl",
       "rank": 18,
-      "title": "YouTube Music agora exige pagamento para ver letras de músicas",
-      "label": "YouTube Music · Cobrança por letras",
-      "context": "YouTube Music anunciou que agora é necessário pagar para visualizar letras de músicas na plataforma. Essa mudança afeta usuários que acessam letras gratuitamente. A decisão tem gerado debates sobre o modelo de negócios da plataforma.",
+      "title": "França pede a renúncia de Francesca Albanese após comentários antissemitas",
+      "label": "Reação à declaração de Albanese",
+      "context": "Francesca Albanese, especialista da ONU, fez comentários considerados antissemitas em um fórum da Al Jazeera. A França pediu sua renúncia devido às declarações. O episódio gerou debates sobre liberdade de expressão e limites éticos.",
       "source": "reddit",
-      "subreddit": "technology",
-      "permalink": "https://www.reddit.com/r/technology/comments/1r18693/youtube_music_now_makes_you_pay_to_see_song_lyrics/",
-      "createdAt": "2026-02-10T18:06:47+00:00",
-      "rawScore": 106.93746704360146,
-      "relevanceScore": 0.03724656793154809,
-      "suggestedRadius": 47.58,
-      "imageUrl": "assets/images/reddit_1r18693_wm.jpg",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1r2i8tl/france_demands_francesca_albanese_resign_after/",
+      "createdAt": "2026-02-12T03:06:51+00:00",
+      "rawScore": 167.70925007321557,
+      "relevanceScore": 0.1523228873173299,
+      "suggestedRadius": 59.42,
+      "imageUrl": "assets/images/reddit_1r2i8tl_ai.png",
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Cobrar por letras é uma estratégia para melhorar o serviço e valorizar quem paga pelo YouTube Music.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Essa cobrança é mais uma forma de explorar os usuários e tirar ainda mais benefícios gratuitos.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A mudança reflete uma tentativa da plataforma de diversificar suas fontes de receita, mas pode frustrar quem busca acesso gratuito às letras.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ]
-    },
-    {
-      "id": "reddit_1r0c4tr",
-      "rank": 19,
-      "title": "Estudo da Universidade de Oxford aponta que chatbots de IA fornecem aconselhamento médico impreciso",
-      "label": "Debate sobre precisão de chatbots na saúde",
-      "context": "Um estudo da Universidade de Oxford analisou a precisão dos chatbots de inteligência artificial ao fornecer aconselhamento médico. Os resultados indicam que esses sistemas podem apresentar informações incorretas. O tema levanta discussões sobre o uso de IA na área da saúde e sua confiabilidade.",
-      "source": "reddit",
-      "subreddit": "science",
-      "permalink": "https://www.reddit.com/r/science/comments/1r0c4tr/ai_chatbots_give_inaccurate_medical_advice_says/",
-      "createdAt": "2026-02-09T18:27:02+00:00",
-      "rawScore": 104.71835334477996,
-      "relevanceScore": 0.03627182284300973,
-      "suggestedRadius": 47.43,
-      "imageUrl": "assets/images/reddit_1r0c4tr_ai.png",
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Chatbots de IA podem ser uma ferramenta útil para ampliar o acesso à informação, especialmente em regiões sem médicos. Sua precisão pode melhorar com o tempo e investimentos.",
+          "text": "A França agiu corretamente ao exigir a renúncia de Albanese, reforçando a luta contra discursos de ódio e defendendo a segurança de Israel.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -745,7 +710,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Confiar em chatbots para aconselhamento médico é perigoso, pois podem espalhar informações incorretas e colocar vidas em risco. Precisamos de profissionais humanos qualificados.",
+          "text": "A pressão da França é uma tentativa de silenciar críticas legítimas, limitando a liberdade de expressão e atacando quem questiona o poder.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -753,7 +718,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A tecnologia de IA ainda está em desenvolvimento e pode complementar o trabalho médico, mas não substitui a avaliação de profissionais de saúde qualificados. A precisão deve ser aprimorada.",
+          "text": "A situação levanta debates sobre o limite entre liberdade de expressão e discurso de ódio, sendo importante avaliar o contexto das declarações de Albanese.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
@@ -761,40 +726,84 @@
       ]
     },
     {
-      "id": "reddit_1r12w9p",
-      "rank": 20,
-      "title": "O declínio do fast food revela mudanças na economia dos EUA",
-      "label": "Declínio do fast food e economia americana",
-      "context": "O debate discute como a queda na popularidade e o aumento dos preços do fast food refletem mudanças econômicas nos Estados Unidos. Algumas opiniões relacionam isso à desigualdade e à inflação. O tema envolve a relação entre consumo, preços e condições financeiras da população.",
+      "id": "reddit_1r1kwjk",
+      "rank": 19,
+      "title": "Exercício pode ser tratamento de primeira linha para depressão leve, dizem pesquisadores",
+      "label": "Debate sobre exercício e depressão leve",
+      "context": "Pesquisadores destacam que exercícios podem ajudar no tratamento de depressão leve, especialmente em jovens e mães recentes. A pesquisa enfatiza os benefícios de atividades em grupo. Algumas opiniões alertam para limitações e fatores sociais.",
       "source": "reddit",
-      "subreddit": "economics",
-      "permalink": "https://www.reddit.com/r/Economics/comments/1r12w9p/what_fast_foods_downturn_says_about_the_us_economy/",
-      "createdAt": "2026-02-10T14:55:07+00:00",
-      "rawScore": 92.93242443598449,
-      "relevanceScore": 0.031094856775966042,
-      "suggestedRadius": 46.58,
-      "imageUrl": "assets/images/reddit_1r12w9p_ai.png",
+      "subreddit": "science",
+      "permalink": "https://www.reddit.com/r/science/comments/1r1kwjk/exercise_can_be_frontline_treatment_for_mild/",
+      "createdAt": "2026-02-11T02:22:25+00:00",
+      "rawScore": 124.28455129497763,
+      "relevanceScore": 0.1058411146849885,
+      "suggestedRadius": 55.52,
+      "imageUrl": "assets/images/reddit_1r1kwjk_ai.png",
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A redução na qualidade e o aumento de preços mostram que o fast food não é mais uma opção acessível, refletindo uma mudança na economia que prejudica consumidores comuns.",
+          "text": "Investir em atividades físicas nas escolas reforça a força e disciplina, ajudando na saúde mental e na formação de cidadãos mais resistentes.",
           "source": "reddit",
-          "votes": 0
+          "votes": 0,
+          "ideology": "far_right"
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O aumento dos preços e a queda na qualidade do fast food evidenciam a desigualdade crescente, onde os mais pobres são os mais afetados por uma economia que favorece os mais ricos.",
+          "text": "Focar apenas em exercício como solução ignora fatores sociais e econômicos que influenciam a saúde mental, além de não tratar causas profundas da depressão.",
           "source": "reddit",
-          "votes": 0
+          "votes": 0,
+          "ideology": "far_left"
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A mudança no fast food pode indicar uma transformação na economia, com impacto na acessibilidade e no comportamento de consumo das famílias de diferentes classes.",
+          "text": "Exercício pode ajudar na depressão leve, mas deve ser considerado parte de um tratamento mais amplo, incluindo apoio psicológico e social.",
           "source": "reddit",
-          "votes": 0
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ]
+    },
+    {
+      "id": "reddit_1r2n57x",
+      "rank": 20,
+      "title": "Suíça realizará votação sobre proposta de limitar a população a 10 milhões",
+      "label": "Votação sobre limite populacional na Suíça",
+      "context": "A Suíça está realizando uma votação para decidir se deve limitar sua população a 10 milhões de habitantes. A proposta envolve restrições à imigração e tem gerado debates públicos. A decisão pode impactar a política de imigração e o crescimento econômico do país.",
+      "source": "reddit",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1r2n57x/switzerland_to_vote_on_farright_proposal_to_cap/",
+      "createdAt": "2026-02-12T07:28:37+00:00",
+      "rawScore": 116.63234018079629,
+      "relevanceScore": 0.09765019230322394,
+      "suggestedRadius": 54.75,
+      "imageUrl": "assets/images/reddit_1r2n57x_ai.png",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Limitar a imigração é uma medida forte para proteger a cultura e a economia suíça, garantindo estabilidade e segurança para os cidadãos.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa proposta reforça o medo e a exclusão, prejudicando a diversidade e os direitos dos imigrantes que contribuem para a sociedade suíça.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A votação reflete o debate sobre o crescimento sustentável e o controle de imigração, buscando equilibrar economia e recursos do país.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
         }
       ]
     }
