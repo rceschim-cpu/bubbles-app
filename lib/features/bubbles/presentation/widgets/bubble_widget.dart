@@ -143,32 +143,46 @@ class BubbleWidget extends StatelessWidget {
   // =======================
 
   Widget _buildBackground() {
-    if (bubble.imageUrl.isNotEmpty) {
-      return ColorFiltered(
-        colorFilter: ColorFilter.mode(
-          Colors.black.withOpacity(0.5),
-          BlendMode.darken,
-        ),
-        child: Image.network(
-          bubble.imageUrl,
-          fit: BoxFit.cover,
-        ),
-      );
+  final url = bubble.imageUrl.trim();
+
+  if (url.isNotEmpty) {
+    Widget img;
+
+    if (url.startsWith('assets/')) {
+      img = Image.asset(url, fit: BoxFit.cover);
+    } else if (url.startsWith('data:image/')) {
+      final comma = url.indexOf(',');
+      if (comma != -1) {
+        final bytes = UriData.parse(url).contentAsBytes();
+        img = Image.memory(bytes, fit: BoxFit.cover);
+      } else {
+        img = const SizedBox.shrink();
+      }
+    } else {
+      img = Image.network(url, fit: BoxFit.cover);
     }
 
-    // fallback abstrato (continua bonito sem imagem)
-    return Container(
-      decoration: BoxDecoration(
-        gradient: RadialGradient(
-          center: const Alignment(-0.4, -0.4),
-          radius: 0.9,
-          colors: [
-            Colors.white.withOpacity(0.16),
-            Colors.white.withOpacity(0.06),
-            Colors.white.withOpacity(0.02),
-          ],
-        ),
+    return ColorFiltered(
+      colorFilter: ColorFilter.mode(
+        Colors.black.withOpacity(0.5),
+        BlendMode.darken,
       ),
+      child: img,
     );
   }
+
+  // fallback abstrato
+  return Container(
+    decoration: BoxDecoration(
+      gradient: RadialGradient(
+        center: const Alignment(-0.4, -0.4),
+        radius: 0.9,
+        colors: [
+          Colors.white.withOpacity(0.16),
+          Colors.white.withOpacity(0.06),
+          Colors.white.withOpacity(0.02),
+        ],
+      ),
+    ),
+  );
 }
