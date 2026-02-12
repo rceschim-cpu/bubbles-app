@@ -142,45 +142,46 @@ class BubbleWidget extends StatelessWidget {
   // FUNDO
   // =======================
 
-Widget _buildBackground() {
-  final url = bubble.imageUrl.trim();
+  Widget _buildBackground() {
+    final url = bubble.imageUrl.trim();
 
-  if (url.isEmpty) {
-    return Container(
-      decoration: BoxDecoration(
-        gradient: RadialGradient(
-          center: const Alignment(-0.4, -0.4),
-          radius: 0.9,
-          colors: [
-            Colors.white.withOpacity(0.16),
-            Colors.white.withOpacity(0.06),
-            Colors.white.withOpacity(0.02),
-          ],
+    if (url.isEmpty) {
+      return Container(
+        decoration: BoxDecoration(
+          gradient: RadialGradient(
+            center: const Alignment(-0.4, -0.4),
+            radius: 0.9,
+            colors: [
+              Colors.white.withOpacity(0.16),
+              Colors.white.withOpacity(0.06),
+              Colors.white.withOpacity(0.02),
+            ],
+          ),
         ),
+      );
+    }
+
+    Widget img;
+
+    if (url.startsWith('assets/')) {
+      img = Image.asset(url, fit: BoxFit.cover);
+    } else if (url.startsWith('data:image/')) {
+      try {
+        final bytes = UriData.parse(url).contentAsBytes();
+        img = Image.memory(bytes, fit: BoxFit.cover);
+      } catch (_) {
+        img = const SizedBox.shrink();
+      }
+    } else {
+      img = Image.network(url, fit: BoxFit.cover);
+    }
+
+    return ColorFiltered(
+      colorFilter: ColorFilter.mode(
+        Colors.black.withOpacity(0.5),
+        BlendMode.darken,
       ),
+      child: img,
     );
   }
-
-  Widget img;
-
-  if (url.startsWith('assets/')) {
-    img = Image.asset(url, fit: BoxFit.cover);
-  } else if (url.startsWith('data:image/')) {
-    try {
-      final bytes = UriData.parse(url).contentAsBytes();
-      img = Image.memory(bytes, fit: BoxFit.cover);
-    } catch (_) {
-      img = const SizedBox.shrink();
-    }
-  } else {
-    img = Image.network(url, fit: BoxFit.cover);
-  }
-
-  return ColorFiltered(
-    colorFilter: ColorFilter.mode(
-      Colors.black.withOpacity(0.5),
-      BlendMode.darken,
-    ),
-    child: img,
-  );
 }
